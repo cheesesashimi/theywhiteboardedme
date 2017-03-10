@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Companies that don't whiteboard"
-permalink: companies-that-dont-whiteboard.html
+title: "Companies That Whiteboard"
+permalink: companies-that-whiteboard.html
 ---
 
 <div>
-{% assign sorted_companies = (site.data.companies_who_dont_whiteboard | sort: 'name') %}
+{% assign sorted_companies = (site.data.companies_that_whiteboard | sort: 'name') %}
 {% for company in sorted_companies %}
     <h3>{{ company.name }}</h3>
     <ul>
