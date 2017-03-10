@@ -1,5 +1,11 @@
 - name: Google
-  interview_type: whiteboarding
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
 
 - name: Uber
-  interview_type: whiteboarding
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
