@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Welcome!"
 ---
 
 From coding challenges that measure the wrong things, to demoralizing whiteboarding / live-coding
