@@ -6,7 +6,7 @@ permalink: faq.html
 
 ## Overview
 
-Rather than beat a dead horse, we still instead provide copious links to sites which describe why
+Others are able to articulate this thought better, so I will provide a few links to sites which describe why
 whiteboarding and live-coding in general is a bad practice:
 
 <ul>
@@ -15,5 +15,3 @@ whiteboarding and live-coding in general is a bad practice:
     <li><a href="{{ link.url }}">{{ link.name }}</a> ({{ link.author }})</li>
 {% endfor %}
 </ul>
-
-Whiteboarding is bad, m'kay?
