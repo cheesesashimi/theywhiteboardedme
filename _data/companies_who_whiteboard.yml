@@ -11,3 +11,90 @@
   - whiteboarding
   - live_coding
   - online_coding_challenge
+
+- name: Facebook
+  url: "http://www.facebook.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Amazon
+  url: "http://www.amazon.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Microsoft
+  url: "http://www.microsoft.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: IBM
+  url: "http://www.ibm.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
+
+- name: Apple
+  url: "http://www.apple.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Twitter
+  url: "http://www.twitter.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Triplebyte
+  url: "http://www.triplebyte.com"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: Hired
+  url: "http://www.hired.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: Indeed Prime
+  url: "http://www.indeed.com/prime"
+  interview_types:
+  - online_coding_challenge
+
+- name: Stack Overflow
+  url: "http://www.stackoverflow.com"
+  interview_types:
+  - live_coding
+  - whiteboarding
+
+- name: AirBnb
+  url: "http://www.airbnb.com"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Lyft
+  url: "http://www.lyft.com"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Fitbit
+  url: "http://www.fitbit.com"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: GrubHub
+  url: "http://www.grubhub.com"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
