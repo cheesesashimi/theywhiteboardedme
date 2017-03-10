@@ -1,0 +1,11 @@
+- name: Codility
+  url: "http://www.codility.com"
+
+- name: Hackerrank
+  url: "http://www.hackerrank.com"
+
+- name: Leetcode
+  url: "http://www.leetcode.com"
+
+- name: TrueAbility
+  url: "http://www.trueability.com"
