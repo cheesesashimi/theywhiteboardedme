@@ -1,10 +1,12 @@
 - name: Google
+  url: "http://www.google.com"
   interview_types:
   - whiteboarding
   - live_coding
   - online_coding_challenge
 
 - name: Uber
+  url: "http://www.uber.com"
   interview_types:
   - whiteboarding
   - live_coding
