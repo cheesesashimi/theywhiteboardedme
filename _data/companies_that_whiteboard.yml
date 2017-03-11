@@ -16,24 +16,28 @@
 
 - name: Facebook
   url: "http://www.facebook.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Facebook-Interview-Questions-E40772.htm"
   interview_types:
   - whiteboarding
   - live_coding
 
 - name: Amazon
   url: "http://www.amazon.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036.htm"
   interview_types:
   - whiteboarding
   - live_coding
 
 - name: Microsoft
   url: "http://www.microsoft.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Microsoft-Interview-Questions-E1651.htm"
   interview_types:
   - whiteboarding
   - live_coding
 
 - name: IBM
   url: "http://www.ibm.com"
+  glassdoor: "https://www.glassdoor.com/Interview/IBM-Interview-Questions-E354.htm"
   interview_types:
   - whiteboarding
   - live_coding
@@ -41,12 +45,14 @@
 
 - name: Apple
   url: "http://www.apple.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Apple-Interview-Questions-E1138.htm"
   interview_types:
   - whiteboarding
   - live_coding
 
 - name: Twitter
   url: "http://www.twitter.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Twitter-Interview-Questions-E100569.htm"
   interview_types:
   - whiteboarding
   - live_coding
@@ -69,12 +75,14 @@
 
 - name: Stack Overflow
   url: "http://www.stackoverflow.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Stack-Overflow-Interview-Questions-E504626.htm"
   interview_types:
   - live_coding
   - whiteboarding
 
-- name: AirBnb
+- name: Airbnb
   url: "http://www.airbnb.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Airbnb-Interview-Questions-E391850.htm"
   interview_types:
   - live_coding
   - whiteboarding
@@ -82,6 +90,7 @@
 
 - name: Lyft
   url: "http://www.lyft.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Lyft-Interview-Questions-E700614.htm"
   interview_types:
   - live_coding
   - whiteboarding
@@ -89,12 +98,14 @@
 
 - name: Fitbit
   url: "http://www.fitbit.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Fitbit-Interview-Questions-E500145.htm"
   interview_types:
   - live_coding
   - whiteboarding
   - online_coding_challenge
 
 - name: GrubHub
+  glassdoor: "https://www.glassdoor.com/Interview/GrubHub-Interview-Questions-E419089.htm"
   url: "http://www.grubhub.com"
   interview_types:
   - live_coding
