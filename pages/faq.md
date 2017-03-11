@@ -4,7 +4,8 @@ title: "Frequently Asked Questions"
 permalink: faq.html
 ---
 
-## What is whiteboarding?
+## Whiteboarding and live-coding
+### What is whiteboarding?
 Whiteboarding is the practice of asking a technical job interview applicant to
 write code to a pet problem, typically on a dry-erase whiteboard. While
 originally promoted as a way to inspire conversation about a candidates’
@@ -13,32 +14,34 @@ approach to a problem, the use and meaning of whiteboarding has morphed into
 rote memorization of a given algorithm or the steps needed to solve a particular
 problem.
 
-## What is live-coding?
+### What is live-coding?
 Live-coding is a practice very similar to whiteboarding. The difference is,
 a candidate may be able to use a computer. Whether or not they can compile / run
 their code depends heavily upon the environment provided to the candidate. Some
 companies just use a Google Doc. Others use purpose-built tooling such as
 Coderpad, Stypi, etc.
 
-## What are online coding challenges?
+### Why is whiteboarding and live-coding bad?
+Whiteboarding and live-coding is a bad practice because these skills are
+discrete from those required for most software engineering positions. These
+interviews only measure a candidate's interview skills; not their actual
+technical skills.
+
+
+## Online Coding Challenges
+### What are online coding challenges?
 An online coding challenge is a coding assignment typically given to a candidate
 using an automated platform such as Leetcode, Hackerrank, Codility, et. al.
+
 These require a candidate to complete a given coding problem using their web
-browser. Candidate solutions will be ran and verified against the constraints of
-the problem using a series of both visible and invisible (to the candidate)
-tests.
+browser. Candidate solutions are ran and verified against problem constraints
+using a series of visible and invisible (to the candidate) tests.
 
-## Why is whiteboarding / live-coding bad?
-Whiteboarding / live-coding is a bad practice because these skills are discrete
-from those required for most software engineering positions. These skills
-include things like presentation skills, communication skills, etc. This is not
-to suggest that those skills are unimportant. However, most whiteboarding
-/ live-coding measures those skills as opposed to a candidate’s ability to write
-clean, clear and efficient code. As a result, interviewers believe that
-a candidate's inability to produce code on a whiteboard correlates with their
-ability to produce code on the job.
+### What benefits do online coding challenges have?
+They allow companies to inexpensively screen candidates as a precursor to
+a phone screen / onsite interview.
 
-## Why are online coding challenges bad?
+### Why are online coding challenges bad?
 Online coding challenges limit your ability to ask questions about the problem
 to determine scope / approach / etc. This is crucial because some of these
 problems are very poorly worded. You also gain a countdown timer ticking away
@@ -62,31 +65,81 @@ out-of-work obligations such as caring for a family, you may not necessarily
 have the availability of uninterrupted time necessary to complete a coding
 challenge. Some can take up to several hours.
 
+## Homework
+### What are homework assignments?
+Homework assignments, sometimes also called "take-home tests" or "take-home
+interviews" typically include a problem definition and instructions for
+a candidate to complete them in their choice of programming language, with their
+choice of development and testing frameworks. Typically, a candidate uses their
+own computer in their own home, uses their editor of choice and has a reasonable
+deadline with which to complete this assignment.
+
+Online coding challenges should not be confused with homework assignments.
+
+### What benefits do homework assignments have?
+Candidates can complete them on their own time and with their own tools and
+environment at their disposal. Candidates can look up references for various
+things on the Internet.
+
+These can transform a technical interview into a code review session which can
+be significantly less stressful. Additionally, this frees up onsite interview
+time for evaluating whether the candidate would be a good fit, culture-wise.
+
+### Why are homework assignments bad?
+They can be very time-intensive, depending on the nature of the assignment and
+what the company has in mind. If a candidate is applying at several companies,
+they only have a finite amount of time to do homework assignments with.
+
+Homework assignments sometimes get conflated with being asked to do work for
+free. Additionally, there is the problem of introducing participation bias for
+those who have out-of-work obligations such as caring for a family, etc.
+
+Some companies do not allow candidates to post their solutions to homework
+problems online.
+
+Some companies believe that candidates cheat, by having others do their
+assignments for them. While possible, this is easily verified during a simple
+phone interview.
+
+Lastly, engineers who have a strong GitHub profile already have a demonstrable
+body of work they can (and should) be able to present for a competency
+evaluation instead of being asked to waste time completing a homework
+assignment. Even another company's homework assignment can (and should) be used
+as an example of a candidate's competency.
+
 ## How do we fix this?
-Some companies are beginning to do away with whiteboard interviews. Others are
-have developed apprenticeship programs that enable interested people to gain
-experience with writing code.
 
-Here is a list of articles that discuss alternative strategies:
+### Alternatives to stressful interviews
+Some companies are beginning to adopt homework / take-home assignments as
+a screening tool. These are not without their problems as discussed above. Other
+companies are developing apprenticeship programs to specifically target and
+develop talent which might not do well in a tech interview.
 
-<ul>
+### Resources
+Here are some articles and videos which describe the problem further and suggest
+alternatives:
+
 {% assign sorted_links = (site.data.links | sort: 'author') %}
 {% for link in sorted_links %}
-    <li><a href="{{ link.url }}">{{ link.name }}</a> ({{ link.author }})</li>
+- [{{ link.name }}]({{ link.url }})
 {% endfor %}
-</ul>
 
-## What is the mission of they.whiteboarded.me?
-To even the field for all tech practitioners, regardless of educational
-background, race or ethnicity.
+### What can I do to help?
+- Please help keep this site up-to-date by submitting pull requests.
+- Refuse to interview at companies that use these stressful interview practices.
+
+### What is the mission of they.whiteboarded.me?
+To promote diversity and even the field for all tech practitioners, regardless
+of experience level, educational background, race, ethnicity, sexual
+orientation, religion, etc.
 
 It is no secret that the tech sector is growing at an unprecedented rate,
 accelerating every day. With this growth, companies cannot hire candidates fast
 enough.
 
 However, many companies will not stop these practices until they have a good
-reason for doing so. We, as tech practitioners, must provide them with that
-reason. If we slow down the process by refusing to submit to demoralizing
-interviews, we have the capability to effect change in our industry. To that
-end, this site exists to provide everyone with a list of companies that engage
-in these questionable practices.
+reason for doing so. We, as tech workers, must provide them with that reason. If
+we slow growth by refusing to submit to demoralizing interviews, we have the
+capability to effect change in our industry. To that end, this site exists to
+provide everyone with a list of companies that engage in these questionable
+practices.
