@@ -1,10 +1,12 @@
 - name: Heroku
+  glassdoor: "https://www.glassdoor.com/Interview/Salesforce-Interview-Questions-E11159.htm"
   url: "http://www.heroku.com"
   interview_types:
   - homework
   - code_review
 
 - name: Foursquare
+  glassdoor: "https://www.glassdoor.com/Interview/Foursquare-Interview-Questions-E492487.htm"
   url: "http://www.foursquare.com"
   interview_types:
   - homework
