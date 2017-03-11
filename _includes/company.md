@@ -24,6 +24,7 @@
             </ul>
         </td>
 
+        {% if company.interview_types %}
         <td class="info-icons">
             <ul class="info-icons">
             {% assign sorted_interview_types = (company.interview_types | sort) %}
@@ -48,6 +49,7 @@
             {% endfor %}
             </ul>
         </td>
+        {% endif %}
     </tr>
 {% endfor %}
 </table>
