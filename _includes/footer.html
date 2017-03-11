@@ -1,0 +1,32 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="social-media-list">
+          {% if site.github_repo %}
+          <li>
+            {% include github-repo.html username=site.github_username repo=site.github_repo %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+      <div class="footer-col footer-col-3">
+        Icons made by <a href="http://www.flaticon.com/authors/alfredo-hernandez" title="Alfredo Hernandez">Alfredo Hernandez</a>, 
+        <a href="http://www.freepik.com" title="Freepik">Freepik</a> and
+        <a href="http://www.flaticon.com/authors/dinosoft" title="Dinosoft">Dinosoft</a> from
+        <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> are licensed by
+        <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
+      </div>
+    </div>
+
+  </div>
+
+</footer>
