@@ -1,5 +1,6 @@
 - name: Google
   url: "http://www.google.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Google-Interview-Questions-E9079.htm"
   interview_types:
   - whiteboarding
   - live_coding
@@ -7,6 +8,7 @@
 
 - name: Uber
   url: "http://www.uber.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Uber-Interview-Questions-E575263.htm"
   interview_types:
   - whiteboarding
   - live_coding
