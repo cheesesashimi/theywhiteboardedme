@@ -9,3 +9,7 @@ This page is created and maintained by using [Jekyll](http://jekyllrb.com/) and 
 ## Updates
 
 Pull requests to add / modify / delete companies and other pages are welcome and encouraged!
+
+## How to update
+
+To add, modify or delete a company, modify the appropriate file in the `_data` directory.
