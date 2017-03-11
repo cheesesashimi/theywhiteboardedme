@@ -119,3 +119,10 @@
   - homework
   - live_coding
   - whiteboarding
+
+- name: Percolate
+  glassdoor: "https://www.glassdoor.com/Interview/Percolate-Interview-Questions-E695577.htm"
+  url: "http://www.percolate.com"
+  interview_types:
+  - homework
+  - whiteboarding
