@@ -57,22 +57,6 @@
   - whiteboarding
   - live_coding
 
-- name: Triplebyte
-  url: "http://www.triplebyte.com"
-  interview_types:
-  - live_coding
-  - online_coding_challenge
-
-- name: Hired
-  url: "http://www.hired.com"
-  interview_types:
-  - online_coding_challenge
-
-- name: Indeed Prime
-  url: "http://www.indeed.com/prime"
-  interview_types:
-  - online_coding_challenge
-
 - name: Stack Overflow
   url: "http://www.stackoverflow.com"
   glassdoor: "https://www.glassdoor.com/Interview/Stack-Overflow-Interview-Questions-E504626.htm"
