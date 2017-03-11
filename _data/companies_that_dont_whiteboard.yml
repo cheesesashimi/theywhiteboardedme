@@ -18,3 +18,10 @@
   interview_types:
   - homework
   - code_review
+
+- name: Outbrain
+  glassdoor: "https://www.glassdoor.com/Interview/Outbrain-Interview-Questions-E585483.htm"
+  url: "http://www.outbrain.com"
+  interview_types:
+  - homework
+  - code_review
