@@ -3,3 +3,9 @@
   interview_types:
   - homework
   - code_review
+
+- name: Foursquare
+  url: "http://www.foursquare.com"
+  interview_types:
+  - homework
+  - code_review
