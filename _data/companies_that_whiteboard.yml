@@ -111,3 +111,11 @@
   - live_coding
   - whiteboarding
   - online_coding_challenge
+
+- name: Rackspace
+  glassdoor: "https://www.glassdoor.com/Interview/Rackspace-Interview-Questions-E11783.htm"
+  url: "http://www.rackspace.com"
+  interview_types:
+  - homework
+  - live_coding
+  - whiteboarding
