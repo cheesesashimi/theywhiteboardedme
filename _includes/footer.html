@@ -7,6 +7,9 @@
         <ul class="social-media-list">
           {% if site.github_repo %}
           <li>
+            {{ site.title }}
+          </li>
+          <li>
             {% include github-repo.html username=site.github_username repo=site.github_repo %}
           </li>
           {% endif %}
