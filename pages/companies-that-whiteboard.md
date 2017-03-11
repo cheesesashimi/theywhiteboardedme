@@ -6,6 +6,9 @@ permalink: companies-that-whiteboard.html
 
 ## Companies
 
+These are companies that are known to use whiteboarding, live-coding and/or online code challenges
+as part of their candidate evaluation process:
+
 {% include company.md companies=site.data.companies_that_whiteboard %}
 
 ## Screening Companies
