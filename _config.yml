@@ -18,6 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: http://they.whiteboarded.me
 twitter_username: eanx
 github_username: cheesesashimi
+github_repo: theywhiteboardedme
 
 # Build settings
 markdown: kramdown
