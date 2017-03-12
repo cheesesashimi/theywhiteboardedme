@@ -35,7 +35,8 @@ list](/companies-that-dont-whiteboard.html). You will get a lot of awesome
 people coming your way.
 
 ### I am not looking for a job and my company whiteboards
-Please have a look at why [whiteboarding is bad](/faq.html). This next part is
+Please have a look at why [whiteboarding is
+bad](/interview_types/whiteboarding_and_live_coding.html). This next part is
 easier said than done, but please fix your process. It will benefit you in the
 long run. Plus, you will be removed from the
 [list](/companies-that-whiteboard.html).
