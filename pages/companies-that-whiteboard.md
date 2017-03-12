@@ -8,8 +8,10 @@ permalink: companies-that-whiteboard.html
 
 ## Companies
 
-These are companies that are known to use whiteboarding, live-coding and/or online code challenges
-as part of their candidate evaluation process:
+These are companies that are known to use [whiteboarding,
+live-coding](/interview_types/whiteboarding_and_live_coding.html) and/or
+[automated code challenges](/interview_types/online_coding_challenges.html) as
+part of their candidate evaluation process:
 
 {% include company.md companies=site.data.companies_that_whiteboard %}
 
