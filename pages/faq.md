@@ -137,3 +137,12 @@ we slow growth by refusing to submit to demoralizing interviews, we have the
 capability to effect change in our industry. To that end, this site exists to
 provide everyone with a list of companies that engage in these questionable
 practices.
+
+### Your site design and layout sucks!
+Hey, that's an opinion, not a question ;). Anyway, I am not a professional web
+developer. I'm the person who keeps your web servers running ;). That said, if
+you're particularly skilled with CSS and Jekyll, [pull
+requests](http://github.com/cheesesashimi/theywhiteboardedme) are welcome and
+encouraged!
+
+Devs love pull requests :).
