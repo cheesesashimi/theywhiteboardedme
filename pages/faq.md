@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Frequently Asked Questions"
+title: "FAQ"
 permalink: faq.html
 ---
 
@@ -115,18 +115,12 @@ a screening tool. These are not without their problems as discussed above. Other
 companies are developing apprenticeship programs to specifically target and
 develop talent which might not do well in a tech interview.
 
-### Resources
-Here are some articles and videos which describe the problem further and suggest
-alternatives:
-
-{% assign sorted_links = (site.data.links | sort: 'author') %}
-{% for link in sorted_links %}
-- [{{ link.name }}]({{ link.url }})
-{% endfor %}
-
 ### What can I do to help?
-- Please help keep this site up-to-date by submitting pull requests.
-- Refuse to interview at companies that use these stressful interview practices.
+- Please help keep this site up-to-date by submitting [pull
+  requests](http://github.com/cheesesashimi/theywhiteboardedme) or [anonymous
+  updates](https://goo.gl/forms/Usy158YeCBA99wT53).
+- Refuse to interview at companies that use these stressful interview
+  practices.
 
 ### What is the mission of they.whiteboarded.me?
 To promote diversity and even the field for all tech practitioners, regardless
