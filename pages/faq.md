@@ -116,9 +116,9 @@ companies are developing apprenticeship programs to specifically target and
 develop talent which might not do well in a tech interview.
 
 ### What can I do to help?
-- Please help keep this site up-to-date by submitting [pull
-  requests](http://github.com/cheesesashimi/theywhiteboardedme) or [anonymous
-  updates](https://goo.gl/forms/Usy158YeCBA99wT53).
+- Please help keep this site up-to-date by submitting a {% include
+  pull_requests.md text="pull request" %} or by {% include anonymous_post.md
+  text="posting anonymously" %}.
 - Refuse to interview at companies that use these stressful interview
   practices.
 
@@ -141,8 +141,7 @@ practices.
 ### Your site design and layout sucks!
 Hey, that's an opinion, not a question ;). Anyway, I am not a professional web
 developer. I'm the person who keeps your web servers running ;). That said, if
-you're particularly skilled with CSS and Jekyll, [pull
-requests](http://github.com/cheesesashimi/theywhiteboardedme) are welcome and
-encouraged!
+you're particularly skilled with CSS and Jekyll, {% include pull_requests.md
+%} are welcome and encouraged!
 
 Devs love pull requests :).
