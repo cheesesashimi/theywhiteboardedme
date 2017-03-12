@@ -19,7 +19,6 @@ Review these lists of companies:
 - [Companies that don't whiteboard](/companies-that-dont-whiteboard.html)
 
 ## Step 2
-The next step depends on where you are and what you're doing:
 
 ### I'm looking for a job
 If you are looking for a job, only apply and accept interview requests with
@@ -27,17 +26,13 @@ companies that do not whiteboard. Decline interview requests with companies
 that do. Be sure to explain why you are declining to interview with a given
 company.
 
-If you encounter a company that is not on either of the lists, please get in
-touch:
-
-{% include contact.md %}
+If you encounter a company that is not on either of the lists, please [get in
+touch](/contact.html).
 
 ### I am not looking for a job and my company does not whiteboard
-Awesome! Send a {% include pull_requests.md text="pull request" %} or open
-a [GitHub issue](http://github.com/cheesesashimi/theywhiteboardedme/issues) if
-your company is not on [the list](/companies-that-dont-whiteboard.html). If you
-prefer to {% include anonymous_post.md text="post anonymously" %}, please feel
-free. You will get a lot of awesome people coming your way.
+Awesome! [Get in touch](/contact.html) if your company is not on [the
+list](/companies-that-dont-whiteboard.html). You will get a lot of awesome
+people coming your way.
 
 ### I am not looking for a job and my company whiteboards
 Please have a look at why [whiteboarding is bad](/faq.html). This next part is
