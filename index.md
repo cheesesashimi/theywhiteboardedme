@@ -17,12 +17,13 @@ Review these lists of companies:
 
 ## Step 2
 - If you work at a company that does not whiteboard, awesome! Send
-  a [PR](https://github.com/cheesesashimi/theywhiteboardedme) if your company is
-  not on the [list](/companies-that-dont-whiteboard.html).
-- If you work at a company that whiteboards, please read up on why
-  [whiteboarding is bad](/faq.html).
-- If you are job-hunting, only apply and interview with companies that do not
-  whiteboard. Do not apply and do not interview with companies that insist on
-  the practice.
-- If you'd prefer to remain anonymous, use this
+  a [PR](https://github.com/cheesesashimi/theywhiteboardedme) if your company
+  is not on the [list](/companies-that-dont-whiteboard.html). If you prefer
+  to remain anonymous, you can use this
   [form](https://goo.gl/forms/Usy158YeCBA99wT53).
+- If you work at a company that whiteboards, please read up on why
+  [whiteboarding is bad](/faq.html). This is easier said than done, but please
+  fix your process.
+- If you are actively or passively job-hunting, only apply and accept interview
+  requests with companies that do not whiteboard. Do not apply and do not
+  accept interview requests with companies that insist on whiteboarding.
