@@ -2,8 +2,6 @@
 layout: page
 title: "Additional Resources"
 permalink: additional-resources.html
-menu: main
-weight: 4
 ---
 
 It can sound very hyperbolic to hear that technical interviews are broken. With
