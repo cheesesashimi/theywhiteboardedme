@@ -22,8 +22,17 @@ Review these lists of companies:
   to remain anonymous, you can use this
   [form](https://goo.gl/forms/Usy158YeCBA99wT53).
 - If you work at a company that whiteboards, please read up on why
-  [whiteboarding is bad](/faq.html). This is easier said than done, but please
-  fix your process.
+  [whiteboarding is bad](/faq.html). This next part is easier said than done,
+  but please fix your process. It will benefit you in the long run.
 - If you are actively or passively job-hunting, only apply and accept interview
   requests with companies that do not whiteboard. Do not apply and do not
   accept interview requests with companies that insist on whiteboarding.
+
+## Step 3
+
+If you encounter an automated coding challenge, live-coding or whiteboarding
+interview, please share it with the world. Feel free to send
+a [pull request](https://github.com/cheesesashimi/theywhiteboardedme) or submit an
+anonymous entry [here](https://goo.gl/forms/Usy158YeCBA99wT53). If
+[Glassdoor](http://www.glassdoor.com) is more your thing, feel free to post
+there.
