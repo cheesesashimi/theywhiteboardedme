@@ -27,10 +27,14 @@ we slow growth by refusing to submit to demoralizing interviews, we have the
 capability to effect change in our industry.
 
 ### How is this different than Glassdoor?
-While [Glassdoor](http://www.glassdoor.com) allows you to submit a review of a given company's interview process, it is not tech-focused. Additionally, discovery of what companies do whiteboarding / live-coding vs. those who do not is very difficult on Glassdoor.
+While [Glassdoor](http://www.glassdoor.com) allows you to submit a review of
+a given company's interview process, it is not tech-focused. Additionally,
+discovery of what companies do whiteboarding / live-coding vs. those who do not
+is very difficult on Glassdoor.
 
 ### Why should I believe this random website?
-That is your choice to make. However, here is a [curated list](/additional_resources.html) of relevant links and sources for your consideration and further perusal.
+Here is a [curated list](/additional_resources.html) of relevant links, sources
+and additional resources for your consideration and further perusal.
 
 ### How do I submit changes?
 {% include contact.md %}
@@ -61,13 +65,8 @@ develop talent which might not do well in a tech interview.
 - Refuse to interview at companies that use these stressful interview
   practices.
 
-### What is the mission of they.whiteboarded.me?
-
-
 ### Your site design and layout sucks!
-Hey, that's an opinion, not a question ;). Anyway, I am not a professional web
+Hey, that's an opinion, not a question :). Anyway, I am not a professional web
 developer. I'm the person who keeps your web servers running ;). That said, if
 you're particularly skilled with CSS and Jekyll, {% include pull_requests.md
 %} are welcome and encouraged!
-
-Devs love pull requests :).
