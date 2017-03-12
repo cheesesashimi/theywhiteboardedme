@@ -33,7 +33,7 @@ discovery of what companies do whiteboarding / live-coding vs. those who do not
 is very difficult on Glassdoor.
 
 ### Why should I believe this random website?
-Here is a [curated list](/additional_resources.html) of relevant links, sources
+Here is a [curated list](/additional-resources.html) of relevant links, sources
 and additional resources for your consideration and further perusal.
 
 ### How do I submit changes?
