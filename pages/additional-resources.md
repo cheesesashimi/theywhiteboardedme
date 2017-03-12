@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Additional Resources"
+permalink: additional-resources.html
 menu: main
 weight: 4
 ---
