@@ -8,9 +8,9 @@ permalink: faq.html
 
 ## they.whiteboarded.me
 ### What is they.whiteboarded.me?
-they.whiteboarded.me aims to be a crowd-sourced and curated list of companies that
-engage in good and bad interview practices. This allows job-seekers to only engage
-with companies whose interview processes are a good fit for them.
+they.whiteboarded.me aims to be a crowd-sourced and curated list of companies
+that engage in good and bad interview practices. This allows job-seekers to
+only engage with companies whose interview processes are a good fit for them.
 
 ### What is the mission of they.whiteboarded.me?
 To promote diversity and inclusivity for all tech practitioners, regardless
@@ -39,9 +39,15 @@ and additional resources for your consideration and further perusal.
 ### How do I submit changes?
 {% include contact.md %}
 
+### Your site design and layout sucks!
+Hey, that's an opinion, not a question :). However, I am not a professional web
+developer. I'm the person who keeps your web servers running ;). That said, if
+you're particularly skilled with CSS and Jekyll, {% include pull_requests.md
+%} are welcome and encouraged!
+
 ## Tech interviews
 
-### What types of applicant evaluations are there?
+### What types of technical interviews are there?
 There are three major types of applicant evaluations, which will be discussed
 separately:
 
@@ -50,23 +56,12 @@ separately:
 2. [Online coding challenges](/interview_types/online_coding_challenges.html).
 3. [Homework assignments](/interview_types/homework.html).
 
-## How do we fix this?
-
-### Alternatives to stressful interviews
-Some companies are beginning to adopt homework / take-home assignments as
-a screening tool. These are not without their problems as discussed above. Other
-companies are developing apprenticeship programs to specifically target and
-develop talent which might not do well in a tech interview.
-
 ### What can I do to help?
-- Please help keep this site up-to-date by submitting a {% include
-  pull_requests.md text="pull request" %} or by {% include anonymous_post.md
-  text="posting anonymously" %}.
-- Refuse to interview at companies that use these stressful interview
-  practices.
+- Please help keep this site up-to-date by [contacting me](/contact.html).
+- Refuse to interview at companies that use these stressful interview processes.
 
-### Your site design and layout sucks!
-Hey, that's an opinion, not a question :). Anyway, I am not a professional web
-developer. I'm the person who keeps your web servers running ;). That said, if
-you're particularly skilled with CSS and Jekyll, {% include pull_requests.md
-%} are welcome and encouraged!
+### Are you saying that candidates should not have to demonstrate competency?
+No. What I [and others](/additional-resources.html) are saying is that the
+current methods of demonstrating competency do not actually measure competency,
+nor do they measure the skills that actually differentiate good software
+engineers from great software engineers.
