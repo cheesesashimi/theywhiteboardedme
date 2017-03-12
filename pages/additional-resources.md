@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Additional Resources"
+menu: main
+weight: 4
 ---
 
 It can sound very hyperbolic to hear that technical interviews are broken. With

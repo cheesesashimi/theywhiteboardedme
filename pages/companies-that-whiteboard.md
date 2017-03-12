@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Companies That Whiteboard"
+menu: main
+weight: 1
 permalink: companies-that-whiteboard.html
 ---
 

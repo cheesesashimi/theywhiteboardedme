@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "FAQ"
+menu: main
+weight: 3
 permalink: faq.html
 ---
 

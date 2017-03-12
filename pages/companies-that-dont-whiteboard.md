@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Companies That Don't Whiteboard"
+menu: main
+weight: 2
 permalink: companies-that-dont-whiteboard.html
 ---
 
