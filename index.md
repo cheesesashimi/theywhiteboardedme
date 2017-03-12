@@ -30,11 +30,7 @@ company.
 If you encounter a company that is not on either of the lists, please get in
 touch:
 
-- {% include pull_requests.md text="Pull requests" %} and [GitHub
-  issues](https://github.com/cheesesashimi/theywhiteboardedme/issues) are
-  warmly welcomed.
-- {% include anonymous_post.md text="Anonymous submissions" %} are also warmly
-  welcomed.
+{% include contact.md %}
 
 ### I am not looking for a job and my company does not whiteboard
 Awesome! Send a {% include pull_requests.md text="pull request" %} or open
