@@ -115,3 +115,10 @@
   url: "http://www.adstream.com/us/"
   interview_types:
   - whiteboarding
+
+- name: "Hyland Software"
+  url: "http://www.onbase.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - code_review
