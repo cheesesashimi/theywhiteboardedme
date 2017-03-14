@@ -122,3 +122,8 @@
   - whiteboarding
   - live_coding
   - code_review
+
+- name: "Duolingo"
+  url: "http://www.duolingo.com"
+  interview_types:
+  - whiteboarding
