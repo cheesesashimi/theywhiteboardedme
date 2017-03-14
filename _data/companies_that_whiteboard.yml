@@ -117,6 +117,7 @@
   - whiteboarding
 
 - name: "Hyland Software"
+  glassdoor: "https://www.glassdoor.com/Interview/Hyland-Interview-Questions-E9432.htm"
   url: "http://www.onbase.com"
   interview_types:
   - whiteboarding
@@ -124,6 +125,7 @@
   - code_review
 
 - name: "Duolingo"
+  glassdoor: "https://www.glassdoor.com/Interview/Duolingo-Interview-Questions-E629348.htm"
   url: "http://www.duolingo.com"
-  interview_types:
+    interview_types:
   - whiteboarding
