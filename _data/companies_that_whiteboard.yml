@@ -127,5 +127,5 @@
 - name: "Duolingo"
   glassdoor: "https://www.glassdoor.com/Interview/Duolingo-Interview-Questions-E629348.htm"
   url: "http://www.duolingo.com"
-    interview_types:
+  interview_types:
   - whiteboarding
