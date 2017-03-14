@@ -2,4 +2,4 @@
 - You can submit a [GitHub
   issue](https://github.com/cheesesashimi/theywhiteboardedme/issues).
 - If you prefer to remain anonymous, you can use {% include anonymous_post.md text="this" %} form.
-- I am [eanx](http://twitter.com/{{ site.twitter_username }}) on Twitter.
+- Tweet at [@{{ site.twitter_username }}](http://twitter.com/{{ site.twitter_username }}).

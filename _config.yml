@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "They Whiteboarded Me!"
 url: http://they.whiteboarded.me
-twitter_username: eanx
+twitter_username: whiteboarded_me
 github_username: cheesesashimi
 github_repo: theywhiteboardedme
 github_repo_link: "https://github.com/cheesesashimi/theywhiteboardedme"
