@@ -144,4 +144,27 @@
   - whiteboarding
   - online_coding_challenge
 
+- name: "Sendgrid"
+  glassdoor: "https://www.glassdoor.com/Interview/SendGrid-Interview-Questions-E466121.htm"
+  url: "http://www.sendgrid.com"
+  interview_types:
+  - online_coding_challenge
 
+- name: "ServiceNow"
+  glassdoor: "https://www.glassdoor.com/Interview/ServiceNow-Interview-Questions-E403326.htm"
+  url: "http://www.servicenow.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "FarmLogs"
+  glassdoor: "https://www.glassdoor.com/Interview/FarmLogs-Interview-Questions-E930306.htm"
+  url: "https://farmlogs.com/"
+  interview_types:
+  - live_coding
+
+- name: "Casper"
+  glassdoor: "https://www.glassdoor.com/Interview/Casper-Interview-Questions-E990859.htm"
+  url: "http://www.casper.com"
+  interview_types:
+  - whiteboarding
