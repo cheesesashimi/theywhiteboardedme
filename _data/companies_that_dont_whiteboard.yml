@@ -26,9 +26,15 @@
   - homework
   - code_review
 
-- name: "SiteImprove"
+- name: "Siteimprove"
   glassdoor: "https://www.glassdoor.com/Interview/Siteimprove-Interview-Questions-E847933.htm"
   url: "https://siteimprove.com/"
   interview_types:
   - homework
   - code_review
+
+- name: "DigitalOcean"
+  glassdoor: "https://www.glassdoor.com/Interview/DigitalOcean-Interview-Questions-E823482.htm"
+  url: "http://www.digitalocaen.com"
+  interview_types:
+  - homework
