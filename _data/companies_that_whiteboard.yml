@@ -129,3 +129,10 @@
   url: "http://www.duolingo.com"
   interview_types:
   - whiteboarding
+
+- name: "PointClickCare"
+  glassdoor: "https://www.glassdoor.com/Interview/PointClickCare-Interview-Questions-E452666.htm"
+  url: "https://pointclickcare.com"
+  interview_types:
+  - whiteboarding
+
