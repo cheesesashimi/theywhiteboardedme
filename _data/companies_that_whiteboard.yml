@@ -136,3 +136,12 @@
   interview_types:
   - whiteboarding
 
+- name: "Twitch"
+  glassdoor: "https://www.glassdoor.com/Interview/Twitch-Interview-Questions-E639426.htm"
+  url: "http://twitch.tv"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+
