@@ -202,81 +202,97 @@
 
 - name: "Citibank"
   url: "http://www.citibank.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Citibank-Interview-Questions-E13604.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Intel"
   url: "http://www.intel.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Intel-Corporation-Interview-Questions-E1519.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Bank of America"
   url: "http://www.bankofamerica.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Bank-of-America-Interview-Questions-E8874.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Symantec"
   url: "http://www.symantec.com"
+  glassdoor: "http://www.glassdoor.com/Interview/Symantec-Interview-Questions-E1931.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Live Ramp"
   url: "http://www.liveramp.com"
+  glassdoor: "https://www.glassdoor.com/Interview/LiveRamp-Interview-Questions-E633892.htm"
   interview_types:
   - online_coding_challenge
 
-- name: "Checkpoint"
+- name: "Check Point Software"
   url: "http://www.checkpoint.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Check-Point-Software-Technologies-Interview-Questions-E6161.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Wargaming.net"
   url: "http://www.wargaming.net/"
+  glassdoor: "https://www.glassdoor.com/Interview/Wargaming-net-Interview-Questions-E381713.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Wikia"
   url: "http://www.wikia.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Fandom-Interview-Questions-E428648.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "App Annie"
   url: "http://www.appannie.com"
+  glassdoor: "https://www.glassdoor.com/Interview/App-Annie-Interview-Questions-E659235.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Splunk"
   url: "http://www.splunk.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Splunk-Interview-Questions-E117313.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Samsung"
   url: "http://www.samsung.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Samsung-Interview-Questions-E3363.htm"
   interview_types:
   - online_coding_challenge
 
-- name: "VmWare"
+- name: "VMware"
   url: "http://www.vmware.com"
+  glassdoor: "https://www.glassdoor.com/Interview/VMware-Interview-Questions-E12830.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Yahoo"
   url: "http://www.yahoo.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Yahoo-Interview-Questions-E5807.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Evernote"
   url: "http://www.evernote.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Evernote-Interview-Questions-E400095.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Pure Storage"
   url: "http://www.purestorage.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Pure-Storage-Interview-Questions-E364364.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "Juniper Networks"
   url: "http://www.juniper.net"
+  glassdoor: "https://www.glassdoor.com/Interview/Juniper-Networks-Interview-Questions-E7224.htm"
   interview_types:
   - online_coding_challenge
 
@@ -287,11 +303,13 @@
 
 - name: "InMobi"
   url: "http://www.inmobi.com"
+  glassdoor: "https://www.glassdoor.com/Interview/InMobi-Interview-Questions-E373348.htm"
   interview_types:
   - online_coding_challenge
 
 - name: "New York Life"
   url: "http://www.newyorklife.com"
+  glassdoor: "https://www.glassdoor.com/Interview/New-York-Life-Interview-Questions-E2915.htm"
   interview_types:
   - online_coding_challenge
 
