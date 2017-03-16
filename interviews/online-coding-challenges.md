@@ -45,9 +45,11 @@ Some companies such as Google and Uber provide their own. Others use an
 off-the-shelf coding evaluation site such as:
 
 {% assign sites = (site.data.online_coding_challenges | sort: 'name') %}
-{% for site in sites limit:5 %}
+{% for site in sites limit:3 %}
 - [{{site.name}}]({{site.url}})
 {% endfor %}
 
-## I don't believe you.
+Complete list available [here](/online-coding-challenge-providers.html).
+
+## I'd like more information.
 Check out these [additional resources](/additional-resources.html) for more information.
