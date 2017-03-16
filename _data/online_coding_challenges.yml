@@ -12,3 +12,9 @@
 
 - name: Hirevue
   url: "http://www.hirevue.com"
+
+- name: Codewars
+  url: "http://www.codewars.com"
+
+- name: Qualified
+  url: "http://www.qualified.io"
