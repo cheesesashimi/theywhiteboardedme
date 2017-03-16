@@ -17,7 +17,7 @@
                 {% if company.glassdoor %}
                 <li>
                     <a title="Glassdoor profile for {{ company.name }}" href="{{ company.glassdoor }}">
-                        <img src="/images/glassdoor.svg">
+                        {% include glassdoor.html company_name = company.name %}
                     </a>
                 </li>
                 {% endif %}
@@ -31,19 +31,19 @@
             {% for interview_type in sorted_interview_types %}
                 <li>
                 {% if interview_type == "online_coding_challenge" %}
-                    <img title="Online Coding Challenge" alt="Online Coding Challenge" src="images/puzzle.svg">
+                    {% include online_coding_challenge.html %}
                 {% endif %}
                 {% if interview_type == "whiteboarding" %}
-                    <img title="Whiteboarding" alt="Whiteboarding" src="images/whiteboarding.svg">
+                    {% include whiteboarding.html %}
                 {% endif %}
                 {% if interview_type == "live_coding" %}
-                    <img title="Live Coding" alt="Live Coding" src="images/coding.svg">
+                    {% include live_coding.html %}
                 {% endif %}
                 {% if interview_type == "homework" %}
-                    <img title="Homework" alt="Homework" src="images/homework.svg">
+                    {% include homework.html %}
                 {% endif %}
                 {% if interview_type == "code_review" %}
-                    <img title="Code Review" alt="Code Review" src="images/codereview.svg">
+                    {% include code_review.html %}
                 {% endif %}
                 </li>
             {% endfor %}
