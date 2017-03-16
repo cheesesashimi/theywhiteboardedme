@@ -26,5 +26,5 @@ discrete from those required for most software engineering positions. These
 interviews only measure a candidate's interview skills; not their actual
 technical skills.
 
-## I don't believe you.
+## I'd like more information.
 Check out these [additional resources](/additional-resources.html) for more information.

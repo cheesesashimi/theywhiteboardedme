@@ -45,5 +45,5 @@ evaluation instead of being asked to waste time completing a homework
 assignment. Even another company's homework assignment can (and should) be used
 as an example of a candidate's competency.
 
-## I don't believe you.
+## I'd like more information.
 Check out these [additional resources](/additional-resources.html) for more information.
