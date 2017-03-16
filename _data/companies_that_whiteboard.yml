@@ -319,6 +319,18 @@
   interview_types:
   - online_coding_challenge
   
+- name: "Wix"
+  url: "http://www.wix.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Wix-Software-Developer-Interview-Questions-EI_IE391615.0,3_KO4,22.htm"
+  interview_types:
+  - online_coding_challenge
+  
+- name: "GetTaxi (Gett)"
+  url: "https://gett.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Gett-Software-Development-Engineer-Interview-Questions-EI_IE810731.0,4_KO5,34.htm"
+  interview_types:
+  - online_coding_challenge
+
 - name: Buffer
   url: "http://www.buffer.com"
   glassdoor: "https://www.glassdoor.com/Interview/Buffer-Interview-Questions-E941992.htm?countryRedirect=true"
