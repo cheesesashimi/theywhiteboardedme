@@ -181,3 +181,116 @@
   interview_types:
   - whiteboarding
   - live_coding
+
+- name: "Experian"
+  glassdoor: "https://www.glassdoor.com/Interview/Experian-Interview-Questions-E42406.htm"
+  url: "http://www.experian.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Livestream"
+  glassdoor: "https://www.glassdoor.com/Interview/Livestream-Interview-Questions-E463168.htm"
+  url: "http://www.livestream.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Andela"
+  glassdoor: "https://www.glassdoor.com/interview/andela-interview-questions-e882830.htm"
+  url: "http://www.andela.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Citibank"
+  url: "http://www.citibank.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Intel"
+  url: "http://www.intel.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Bank of America"
+  url: "http://www.bankofamerica.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Symantec"
+  url: "http://www.symantec.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Live Ramp"
+  url: "http://www.liveramp.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Checkpoint"
+  url: "http://www.checkpoint.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Wargaming.net"
+  url: "http://www.wargaming.net/"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Wikia"
+  url: "http://www.wikia.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "App Annie"
+  url: "http://www.appannie.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Splunk"
+  url: "http://www.splunk.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Samsung"
+  url: "http://www.samsung.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "VmWare"
+  url: "http://www.vmware.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Yahoo"
+  url: "http://www.yahoo.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Evernote"
+  url: "http://www.evernote.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Pure Storage"
+  url: "http://www.purestorage.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Juniper Networks"
+  url: "http://www.juniper.net"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Snapdeal.com"
+  url: "http://www.snapdeal.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "InMobi"
+  url: "http://www.inmobi.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "New York Life"
+  url: "http://www.newyorklife.com"
+  interview_types:
+  - online_coding_challenge
