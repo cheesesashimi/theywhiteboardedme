@@ -28,3 +28,5 @@ These companies provide online coding challenges which several of the companies 
 for screening candidates:
 
 {% include company.md companies=site.data.online_coding_challenges %}
+## Legend
+{% include legend.html %}
