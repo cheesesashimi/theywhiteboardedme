@@ -13,3 +13,8 @@
   url: "http://www.indeed.com/prime"
   interview_types:
   - online_coding_challenge
+
+- name: Landing.jobs
+  url: "https://www.landing.jobs"
+  interview_types:
+  - online_coding_challenge
