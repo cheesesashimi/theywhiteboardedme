@@ -313,6 +313,12 @@
   interview_types:
   - online_coding_challenge
 
+- name: "Toptal"
+  url: "https://www.toptal.com/"
+  glassdoor: "https://www.glassdoor.com/Reviews/Toptal-Reviews-E882070.htm"
+  interview_types:
+  - online_coding_challenge
+
 - name: "Tesla"
   url: "http://www.teslamotors.com"
   glassdoor: "https://www.glassdoor.com/Interview/Tesla-Motors-Interview-Questions-E43129.htm"
