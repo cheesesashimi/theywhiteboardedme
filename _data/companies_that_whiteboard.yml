@@ -422,3 +422,26 @@
   url: "https://sumup.com/"
   interview_types:
   - live_coding
+
+- name: "CockroachDB"
+  url: "https://www.cockroachlabs.com/"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "Spotify"
+  url: "https://spotify.com/"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "FH consulting"
+  url: "http://www.fh.com.br"
+  interview_types:
+  - whiteboarding
+
+- name: "Ebanx"
+  url: "http://www.ebanx.com.br"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
