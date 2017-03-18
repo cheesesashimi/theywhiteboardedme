@@ -445,3 +445,11 @@
   interview_types:
   - live_coding
   - online_coding_challenge
+
+- name: "ThoughtWorks"
+  glassdoor: "https://www.glassdoor.com/Interview/ThoughtWorks-Interview-Questions-E38334.htm"
+  url: "http://www.thoughtworks.com"
+  interview_types:
+  - homework
+  - whiteboarding
+  - code_review
