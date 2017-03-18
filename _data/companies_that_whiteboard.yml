@@ -371,7 +371,7 @@
   - whiteboarding"
 
 - name: "GoCardless"
-  url: "gocardless.com"
+  url: "http://www.gocardless.com"
   interview_types:
   - homework
 
