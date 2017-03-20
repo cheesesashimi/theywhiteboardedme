@@ -469,3 +469,10 @@
   url: "https://mixpanel.com"
   interview_types:
   - whiteboarding
+
+- name: "Snap / Snapchat"
+  glassdoor: "https://www.glassdoor.com/Interview/Snapchat-Interview-Questions-E671946.htm"
+  url: "http://www.snap.com"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
