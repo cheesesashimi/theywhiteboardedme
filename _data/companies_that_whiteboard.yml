@@ -356,19 +356,22 @@
 
 - name: "Wayfair (Berlin)"
   url: "https://www.wayfair.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Wayfair-Interview-Questions-E134525.htm"
   interview_types:
   - online_coding_challenge
   - live_coding
 
 - name: "Climate Corporation"
   url: "http://www.climate.com"
+  glassdoor: "https://www.glassdoor.com/Interview/The-Climate-Corp-Interview-Questions-E486612.htm"
   interview_types:
   - live_coding
 
 - name: "Bazaarvoice"
   url: "http://www.bazaarvoice.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Bazaarvoice-Interview-Questions-E147230.htm"
   interview_types:
-  - whiteboarding"
+  - whiteboarding
 
 - name: "GoCardless"
   url: "http://www.gocardless.com"
@@ -383,33 +386,39 @@
 
 - name: "Cvent"
   url: "http://www.cvent.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Cvent-Interview-Questions-E104683.htm"
   interview_types:
   - live_coding
 
 - name: "DoubleDutch"
   url: "http://doubledutch.me/"
+  glassdoor: "https://www.glassdoor.com/Interview/DoubleDutch-Interview-Questions-E664774.htm"
   interview_types:
   - whiteboarding
 
 - name: "AppNexus"
   url: "https://www.appnexus.com"
+  glassdoor: "https://www.glassdoor.com/Interview/AppNexus-Interview-Questions-E347870.htm"
   interview_types:
-  - whiteboarding"
+  - whiteboarding
 
 - name: "Pluralsight"
   url: "https://www.pluralsight.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Pluralsight-Interview-Questions-E672636.htm"
   interview_types:
   - online_coding_challenge
   - live_coding homework
 
 - name: "MongoDB"
   url: "https://www.mongodb.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/MongoDB-Interview-Questions-E433703.htm"
   interview_types:
   - whiteboarding
   - live_coding
 
 - name: "Transfix"
   url: "http://transfix.io"
+  glassdoor: "https://www.glassdoor.com/Interview/Transfix-Interview-Questions-E1174054.htm"
   interview_types:
   - live_coding
 
@@ -431,6 +440,7 @@
 
 - name: "Spotify"
   url: "https://spotify.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Spotify-Interview-Questions-E408251.htm"
   interview_types:
   - whiteboarding
   - live_coding
