@@ -453,3 +453,9 @@
   - homework
   - whiteboarding
   - code_review
+
+- name: "MixPanel"
+  glassdoor: "https://www.glassdoor.com/Interview/Mixpanel-Interview-Questions-E406910.htm"
+  url: "https://mixpanel.com"
+  interview_types:
+  - whiteboarding
