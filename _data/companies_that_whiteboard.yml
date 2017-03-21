@@ -348,6 +348,7 @@
   interview_types:
   - homework
   - brain_teasers
+  - online_coding_challenge
 
 - name: "Simon Data"
   url: "https://www.simondata.com/"
