@@ -500,3 +500,39 @@
   url: "http://www.turbulent.ca/"
   interview_types:
   - whiteboarding
+
+- name: "Wolters Kluwer"
+  glassdoor: "https://www.glassdoor.com/Interview/Wolters-Kluwer-Interview-Questions-E10497.htm"
+  url: "http://www.wolterskluwer.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Button"
+  glassdoor: "https://www.glassdoor.com/Interview/Button-Interview-Questions-E992376.htm"
+  url: "http://www.usebutton.com"
+  interivew_types:
+  - live_coding
+
+- name: "Yelp"
+  glassdoor: "https://www.glassdoor.com/Interview/Yelp-Interview-Questions-E43314.htm"
+  url: "http://www.yelp.com"
+  interview_types:
+  - live_coding
+
+- name: "Palantir"
+  glassdoor: "https://www.glassdoor.com/Interview/Palantir-Technologies-Interview-Questions-E236375.htm"
+  url: "http://www.palantir.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Intrepid"
+  glassdoor: "https://www.glassdoor.com/Interview/Intrepid-Pursuits-Interview-Questions-E772502.htm"
+  url: "http://www.intrepid.io"
+  interview_types:
+  - whiteboarding
+
+- name: "Aetna (Data Science Group)"
+  glassdoor: "https://www.glassdoor.com/Interview/Aetna-Interview-Questions-E16.htm"
+  url: "http://www.aetna.com"
+  interview_types:
+  - whiteboarding
