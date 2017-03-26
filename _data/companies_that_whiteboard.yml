@@ -542,3 +542,10 @@
   url: "http://www.jet.com"
   interview_types:
   - whiteboarding
+
+- name: "Kira Systems"
+  url: "https://kirasystems.com"
+  interview_types:
+  - live_coding
+  - homework
+  - code_review
