@@ -62,8 +62,7 @@ ire is directed at whiteboarding, live-coding and online coding challenges.
 No. What I ([and others](/additional-resources.html)) are suggesting is that
 the current methods of demonstrating competency do not actually measure
 competency, nor do they effectively predict a given software engineer’s
-performance. If this process could reliably measure performance, companies
-would use them in lieu of traditional performance reviews.
+performance.
 
 ## Miscellaneous Info
 
