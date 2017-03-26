@@ -97,6 +97,7 @@ encouraged.
 
 ### What can I do to help?
 - Please help keep this [site up-to-date](/contact.html).
-- Refuse to interview at companies that use these stressful interview processes.
+- Refuse to interview at companies that use these stressful interview processes
+  and be sure to state your reasons for declining the interview.
 - If your company whiteboards, please work to fix your interview process since
   it will only hurt you in the long run.
