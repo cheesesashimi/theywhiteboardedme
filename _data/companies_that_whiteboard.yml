@@ -549,3 +549,43 @@
   - live_coding
   - homework
   - code_review
+
+- name: "Tecnotree"
+  url: "http://www.tecnotree.com"
+  interview_types:
+  - whiteboarding
+  
+- name: "Rocket Internet"
+  url: "https://www.rocket-internet.com"
+  interview_types:
+  - live_coding
+  - code_review
+
+- name: "Codemate"
+  url: "https://www.codemate.com"
+  interview_types:
+  - live_coding
+  - code_review
+  - online_coding_challenge
+
+- name: "Kiosked"
+  url: "http://www.kiosked.com"
+  interview_types:
+  - homework
+
+- name: "IoLiving"
+  url: "https://www.ioliving.com"
+  interview_types:
+  - online_coding_challenge
+  - live_coding
+
+- name: "Web Solve"
+  url: "https://www.websolve.nl"
+  interview_types:
+  - live_coding
+  - homework
+
+- name: "My WorkOut"
+  url: "https://myworkout.com/no"
+  interview_types:
+  - homework
