@@ -562,3 +562,9 @@
   url: "https://www.makemytrip.com"
   interview_types:
   - whiteboarding
+
+- name: "Grant Street Group"
+  glassdoor: "https://www.glassdoor.com/Interview/Grant-Street-Group-Interview-Questions-E468765.htm"
+  url: "https://www.grantstreet.com/"
+  interview_types:
+  - online_coding_challenge
