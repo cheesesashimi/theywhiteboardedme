@@ -563,6 +563,12 @@
   interview_types:
   - whiteboarding
 
+- name: "Grant Street Group"
+  glassdoor: "https://www.glassdoor.com/Interview/Grant-Street-Group-Interview-Questions-E468765.htm"
+  url: "https://www.grantstreet.com/"
+  interview_types:
+  - online_coding_challenge
+
 - name: "RedMart"
   glassdoor: "https://www.glassdoor.co.in/Interview/Redmart-Interview-Questions-E928875.htm"
   url: "https://www.redmart.com"
