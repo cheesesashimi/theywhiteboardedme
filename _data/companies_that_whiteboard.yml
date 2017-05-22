@@ -558,7 +558,7 @@
   - whiteboarding
 
 - name: "MakeMyTrip"
-  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-MakeMyTrip-EI_IE354629.11,21.htm"
+  glassdoor: "https://www.glassdoor.co.in/Interview/MakeMyTrip-Interview-Questions-E354629.htm"
   url: "https://www.makemytrip.com"
   interview_types:
   - whiteboarding
@@ -568,3 +568,62 @@
   url: "https://www.grantstreet.com/"
   interview_types:
   - online_coding_challenge
+
+- name: "RedMart"
+  glassdoor: "https://www.glassdoor.co.in/Interview/Redmart-Interview-Questions-E928875.htm"
+  url: "https://www.redmart.com"
+  interview_types:
+  - whiteboarding
+  - homework
+
+- name: "ClearTrip"
+  glassdoor: "https://www.glassdoor.co.in/Interview/Cleartrip-Interview-Questions-E307225.htm"
+  url: "https://www.cleartrip.com"
+  interview_types:
+  - live_coding
+
+- name: "HealthifyMe"
+  glassdoor: "https://www.glassdoor.co.in/Interview/HealthifyMe-Interview-Questions-E783982.htm"
+  url: "https://www.healthifyme.com"
+  interview_types:
+  - homework
+  - whiteboarding
+  - live_coding
+
+- name: "MobStac"
+  glassdoor: "https://www.glassdoor.co.in/Interview/MobStac-Interview-Questions-E598352.htm"
+  url: "https://www.mobstac.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Trivago"
+  glassdoor: "https://www.glassdoor.co.in/Interview/trivago-Interview-Questions-E673041.htm"
+  url: "https://www.trivago.com"
+  interview_types:
+  - homework
+
+- name: "GoJek"
+  glassdoor: "https://www.glassdoor.co.in/Interview/GO-JEK-Indonesia-Interview-Questions-E1282114.htm"
+  url: "https://www.gojek.com"
+  interview_types:
+  - homework
+
+- name: "HotStar"
+  glassdoor: "https://www.glassdoor.co.in/Interview/Hotstar-Interview-Questions-E1465942.htm"
+  url: "https://www.hotstar.com"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: "NoonAcademy"
+  url: "https://www.non.sa"
+  interview_types:
+  - homework
+  - online_coding_challenge
+
+- name: "Porter"
+  glassdoor: "https://www.glassdoor.co.in/Interview/The-Porter-Interview-Questions-E1480906.htm"
+  url: "https://theporter.in/"
+  interview_types:
+  - homework
+  - code_review
