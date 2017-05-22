@@ -562,3 +562,63 @@
   url: "https://www.makemytrip.com"
   interview_types:
   - whiteboarding
+
+- name: "RedMart"
+  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-Redmart-EI_IE928875.11,18.htm"
+  url: "https://www.redmart.com"
+  interview_types:
+  - whiteboarding
+  - homework
+
+- name: "ClearTrip"
+  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-Cleartrip-EI_IE307225.11,20.htm"
+  url: "https://www.cleartrip.com"
+  interview_types:
+  - live_coding
+
+- name: "HealthifyMe"
+  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-HealthifyMe-EI_IE783982.11,22.htm"
+  url: "https://www.healthifyme.com"
+  interview_types:
+  - homework
+  - whiteboarding
+  - live_coding
+
+- name: "MobStac"
+  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-MobStac-EI_IE598352.11,18.htm"
+  url: "https://www.mobstac.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Trivago"
+  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-trivago-EI_IE673041.11,18.htm"
+  url: "https://www.trivago.com"
+  interview_types:
+  - homework
+
+- name: "GoJek"
+  glassdoor: "https://www.glassdoor.com/Reviews/Employee-Review-GO-JEK-Indonesia-RVW12210140.htm"
+  url: "https://www.gojek.com"
+  interview_types:
+  - homework
+
+- name: "HotStar"
+  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-Hotstar-EI_IE1465942.11,18.htm"
+  url: "https://www.hotstar.com"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: "NoonAcademy"
+  glassdoor: ""
+  url: "https://www.non.sa"
+  interview_types:
+  - homework
+  - online_coding_challenge
+
+- name: "Porter"
+  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-The-Porter-EI_IE1480906.11,21.htm"
+  url: "https://theporter.in/"
+  interview_types:
+  - homework
+  - code_review
