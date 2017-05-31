@@ -627,3 +627,10 @@
   interview_types:
   - homework
   - code_review
+
+- name: "Branding Brand"
+  url: "http://www.brandingbrand.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Branding-Brand-Pittsburgh-Interview-Questions-EI_IE347091.0,14_IL.15,25_IM684.htm"
+  interview_types:
+  - live_coding
+  - whiteboarding
