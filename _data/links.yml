@@ -1,0 +1,63 @@
+- name: "The Mental Impact of Tech Interviews"
+  author: "Zack Zlotnik"
+  url: "https://www.youtube.com/watch?v=aIrKC41NwC0"
+
+- name: "Against The Whiteboard"
+  author: "Anil Dash"
+  url: "https://medium.com/make-better-software/against-the-whiteboard-f1df0013954f#.qmozm6wcx"
+
+- name: "Programmers are confessing their coding sins to protest a broken job interview process"
+  author: "Adrianne Jeffries"
+  url: "https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process"
+
+- name: "You can’t fix diversity in tech without fixing the technical interview"
+  author: "Aline Lerner"
+  url: "http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/"
+
+- name: "Why is hiring broken? It starts at the whiteboard."
+  author: "Quincy Larson"
+  url: "https://medium.freecodecamp.com/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db#.hwyqtbe6b"
+
+- name: "The Terrible Technical Interview"
+  author: "Jon Evans"
+  url: "https://techcrunch.com/2015/03/21/the-terrible-technical-interview/"
+
+- name: "Developer shortage, or time to rethink the technical interview?"
+  author: "Mitch Pronschinske"
+  url: "https://techbeacon.com/developer-shortage-or-time-rethink-technical-interview"
+
+- name: "The Technical Interview Rift"
+  author: "Brad Stimpson"
+  url: "https://techmasters.blog/the-technical-interview-rift-cf5d4cf6d2c#.iuu5g0y8k"
+
+- name: "Interviewing Programmers"
+  author: "Eli White"
+  url: "http://eliw.com/blog/interviewing-programmers/"
+
+- name: "You suck at technical interviews"
+  author: "Laurie Voss"
+  url: "http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews"
+
+- name: "Technical Interviews Are Bullshit"
+  author: "Anonymous Author"
+  url: "https://modelviewculture.com/pieces/technical-interviews-are-bullshit"
+
+- name: "Get that job at Google"
+  author: "Steve Yegge"
+  url: "http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html"
+
+- name: "Google's nit-picky interview process is a huge turnoff for some experienced coders"
+  author: "Julie Bort"
+  url: "http://www.businessinsider.com/why-an-older-google-contract-programmer-left-google-2016-10"
+
+- name: "Foursquare - Improving Our Engineering Interview Process"
+  author: "Jeff Jenkins and David Park"
+  url: "https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9#.uuih4wg3m"
+
+- name: "Stop Hazing Your Potential Hires"
+  author: "Nathaniel Talbott - Spreedly Engineering"
+  url: "https://engineering.spreedly.com/blog/stop-hazing-your-potential-hires.html"
+
+- name: "Programming Puzzles Are Not The Answer"
+  author: "Ryan Daigle - Spreedly Engineering"
+  url: "https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html"

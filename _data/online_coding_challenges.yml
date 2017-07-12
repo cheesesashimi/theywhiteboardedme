@@ -1,0 +1,20 @@
+- name: Codility
+  url: "http://www.codility.com"
+
+- name: Hackerrank
+  url: "http://www.hackerrank.com"
+
+- name: Leetcode
+  url: "http://www.leetcode.com"
+
+- name: TrueAbility
+  url: "http://www.trueability.com"
+
+- name: Hirevue
+  url: "http://www.hirevue.com"
+
+- name: Codewars
+  url: "http://www.codewars.com"
+
+- name: Qualified
+  url: "http://www.qualified.io"

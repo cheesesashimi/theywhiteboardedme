@@ -1,0 +1,636 @@
+- name: Google
+  url: "http://www.google.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Google-Interview-Questions-E9079.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
+
+- name: Uber
+  url: "http://www.uber.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Uber-Interview-Questions-E575263.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
+
+- name: Facebook
+  url: "http://www.facebook.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Facebook-Interview-Questions-E40772.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Amazon
+  url: "http://www.amazon.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Microsoft
+  url: "http://www.microsoft.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Microsoft-Interview-Questions-E1651.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: IBM
+  url: "http://www.ibm.com"
+  glassdoor: "https://www.glassdoor.com/Interview/IBM-Interview-Questions-E354.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
+
+- name: Apple
+  url: "http://www.apple.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Apple-Interview-Questions-E1138.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Twitter
+  url: "http://www.twitter.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Twitter-Interview-Questions-E100569.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Stack Overflow
+  url: "http://www.stackoverflow.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Stack-Overflow-Interview-Questions-E504626.htm"
+  interview_types:
+  - live_coding
+  - whiteboarding
+
+- name: Airbnb
+  url: "http://www.airbnb.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Airbnb-Interview-Questions-E391850.htm"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Lyft
+  url: "http://www.lyft.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Lyft-Interview-Questions-E700614.htm"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Fitbit
+  url: "http://www.fitbit.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Fitbit-Interview-Questions-E500145.htm"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: GrubHub
+  glassdoor: "https://www.glassdoor.com/Interview/GrubHub-Interview-Questions-E419089.htm"
+  url: "http://www.grubhub.com"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Rackspace
+  glassdoor: "https://www.glassdoor.com/Interview/Rackspace-Interview-Questions-E11783.htm"
+  url: "http://www.rackspace.com"
+  interview_types:
+  - homework
+  - live_coding
+  - whiteboarding
+
+- name: Percolate
+  glassdoor: "https://www.glassdoor.com/Interview/Percolate-Interview-Questions-E695577.htm"
+  url: "http://www.percolate.com"
+  interview_types:
+  - homework
+  - whiteboarding
+
+- name: Adstream
+  url: "http://www.adstream.com/us/"
+  interview_types:
+  - whiteboarding
+
+- name: "Hyland Software"
+  glassdoor: "https://www.glassdoor.com/Interview/Hyland-Interview-Questions-E9432.htm"
+  url: "http://www.onbase.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - code_review
+
+- name: "Duolingo"
+  glassdoor: "https://www.glassdoor.com/Interview/Duolingo-Interview-Questions-E629348.htm"
+  url: "http://www.duolingo.com"
+  interview_types:
+  - whiteboarding
+
+- name: "PointClickCare"
+  glassdoor: "https://www.glassdoor.com/Interview/PointClickCare-Interview-Questions-E452666.htm"
+  url: "https://pointclickcare.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Twitch"
+  glassdoor: "https://www.glassdoor.com/Interview/Twitch-Interview-Questions-E639426.htm"
+  url: "http://twitch.tv"
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: "Sendgrid"
+  glassdoor: "https://www.glassdoor.com/Interview/SendGrid-Interview-Questions-E466121.htm"
+  url: "http://www.sendgrid.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "ServiceNow"
+  glassdoor: "https://www.glassdoor.com/Interview/ServiceNow-Interview-Questions-E403326.htm"
+  url: "http://www.servicenow.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "FarmLogs"
+  glassdoor: "https://www.glassdoor.com/Interview/FarmLogs-Interview-Questions-E930306.htm"
+  url: "https://farmlogs.com/"
+  interview_types:
+  - live_coding
+
+- name: "Casper"
+  glassdoor: "https://www.glassdoor.com/Interview/Casper-Interview-Questions-E990859.htm"
+  url: "http://www.casper.com"
+  interview_types:
+  - whiteboarding
+
+- name: "HBO"
+  glassdoor: "https://www.glassdoor.com/Interview/HBO-Interview-Questions-E13635.htm"
+  url: "http://www.hbo.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Zillow"
+  glassdoor: "https://www.glassdoor.com/Interview/Zillow-Interview-Questions-E40802.htm"
+  url: "http://www.zillow.com"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "Experian"
+  glassdoor: "https://www.glassdoor.com/Interview/Experian-Interview-Questions-E42406.htm"
+  url: "http://www.experian.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Livestream"
+  glassdoor: "https://www.glassdoor.com/Interview/Livestream-Interview-Questions-E463168.htm"
+  url: "http://www.livestream.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Andela"
+  glassdoor: "https://www.glassdoor.com/interview/andela-interview-questions-e882830.htm"
+  url: "http://www.andela.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Citibank"
+  url: "http://www.citibank.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Citibank-Interview-Questions-E13604.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Intel"
+  url: "http://www.intel.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Intel-Corporation-Interview-Questions-E1519.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Bank of America"
+  url: "http://www.bankofamerica.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Bank-of-America-Interview-Questions-E8874.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Symantec"
+  url: "http://www.symantec.com"
+  glassdoor: "http://www.glassdoor.com/Interview/Symantec-Interview-Questions-E1931.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Live Ramp"
+  url: "http://www.liveramp.com"
+  glassdoor: "https://www.glassdoor.com/Interview/LiveRamp-Interview-Questions-E633892.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Check Point Software"
+  url: "http://www.checkpoint.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Check-Point-Software-Technologies-Interview-Questions-E6161.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Wargaming.net"
+  url: "http://www.wargaming.net/"
+  glassdoor: "https://www.glassdoor.com/Interview/Wargaming-net-Interview-Questions-E381713.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Wikia"
+  url: "http://www.wikia.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Fandom-Interview-Questions-E428648.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "App Annie"
+  url: "http://www.appannie.com"
+  glassdoor: "https://www.glassdoor.com/Interview/App-Annie-Interview-Questions-E659235.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Splunk"
+  url: "http://www.splunk.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Splunk-Interview-Questions-E117313.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Samsung"
+  url: "http://www.samsung.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Samsung-Interview-Questions-E3363.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "VMware"
+  url: "http://www.vmware.com"
+  glassdoor: "https://www.glassdoor.com/Interview/VMware-Interview-Questions-E12830.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Yahoo"
+  url: "http://www.yahoo.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Yahoo-Interview-Questions-E5807.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Evernote"
+  url: "http://www.evernote.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Evernote-Interview-Questions-E400095.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Pure Storage"
+  url: "http://www.purestorage.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Pure-Storage-Interview-Questions-E364364.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Juniper Networks"
+  url: "http://www.juniper.net"
+  glassdoor: "https://www.glassdoor.com/Interview/Juniper-Networks-Interview-Questions-E7224.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Snapdeal.com"
+  url: "http://www.snapdeal.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "InMobi"
+  url: "http://www.inmobi.com"
+  glassdoor: "https://www.glassdoor.com/Interview/InMobi-Interview-Questions-E373348.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "New York Life"
+  url: "http://www.newyorklife.com"
+  glassdoor: "https://www.glassdoor.com/Interview/New-York-Life-Interview-Questions-E2915.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Toptal"
+  url: "https://www.toptal.com/"
+  glassdoor: "https://www.glassdoor.com/Reviews/Toptal-Reviews-E882070.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Tesla"
+  url: "http://www.teslamotors.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Tesla-Motors-Interview-Questions-E43129.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Wix"
+  url: "http://www.wix.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Wix-Software-Developer-Interview-Questions-EI_IE391615.0,3_KO4,22.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "GetTaxi (Gett)"
+  url: "https://gett.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Gett-Software-Development-Engineer-Interview-Questions-EI_IE810731.0,4_KO5,34.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Buffer"
+  url: "http://www.buffer.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Buffer-Interview-Questions-E941992.htm?countryRedirect=true"
+  interview_types:
+  - live_coding
+
+- name: "Beta District PL"
+  url: "https://www.betadistrict.com"
+  interview_types:
+  - homework
+  - brain_teasers
+  - online_coding_challenge
+
+- name: "Simon Data"
+  url: "https://www.simondata.com/"
+  interview_types:
+  - live_coding
+
+- name: "Wayfair (Berlin)"
+  url: "https://www.wayfair.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Wayfair-Interview-Questions-E134525.htm"
+  interview_types:
+  - online_coding_challenge
+  - live_coding
+
+- name: "Climate Corporation"
+  url: "http://www.climate.com"
+  glassdoor: "https://www.glassdoor.com/Interview/The-Climate-Corp-Interview-Questions-E486612.htm"
+  interview_types:
+  - live_coding
+
+- name: "Bazaarvoice"
+  url: "http://www.bazaarvoice.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Bazaarvoice-Interview-Questions-E147230.htm"
+  interview_types:
+  - whiteboarding
+
+- name: "GoCardless"
+  url: "http://www.gocardless.com"
+  interview_types:
+  - homework
+
+- name: "The Home Depot Quote Center"
+  url: "http://hdquotecenter.com/"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "Cvent"
+  url: "http://www.cvent.com"
+  glassdoor: "https://www.glassdoor.com/Interview/Cvent-Interview-Questions-E104683.htm"
+  interview_types:
+  - live_coding
+
+- name: "DoubleDutch"
+  url: "http://doubledutch.me/"
+  glassdoor: "https://www.glassdoor.com/Interview/DoubleDutch-Interview-Questions-E664774.htm"
+  interview_types:
+  - whiteboarding
+
+- name: "AppNexus"
+  url: "https://www.appnexus.com"
+  glassdoor: "https://www.glassdoor.com/Interview/AppNexus-Interview-Questions-E347870.htm"
+  interview_types:
+  - whiteboarding
+
+- name: "Pluralsight"
+  url: "https://www.pluralsight.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Pluralsight-Interview-Questions-E672636.htm"
+  interview_types:
+  - online_coding_challenge
+  - live_coding homework
+
+- name: "MongoDB"
+  url: "https://www.mongodb.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/MongoDB-Interview-Questions-E433703.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "Transfix"
+  url: "http://transfix.io"
+  glassdoor: "https://www.glassdoor.com/Interview/Transfix-Interview-Questions-E1174054.htm"
+  interview_types:
+  - live_coding
+
+- name: "Axoni"
+  url: "https://axoni.com/"
+  interview_types:
+  - online_coding_challenge
+
+- name: "SumUp"
+  url: "https://sumup.com/"
+  interview_types:
+  - live_coding
+
+- name: "CockroachDB"
+  url: "https://www.cockroachlabs.com/"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "Spotify"
+  url: "https://spotify.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Spotify-Interview-Questions-E408251.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: "FH consulting"
+  url: "http://www.fh.com.br"
+  interview_types:
+  - whiteboarding
+
+- name: "Ebanx"
+  url: "http://www.ebanx.com.br"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: "ThoughtWorks"
+  glassdoor: "https://www.glassdoor.com/Interview/ThoughtWorks-Interview-Questions-E38334.htm"
+  url: "http://www.thoughtworks.com"
+  interview_types:
+  - homework
+  - whiteboarding
+  - code_review
+
+- name: "MixPanel"
+  glassdoor: "https://www.glassdoor.com/Interview/Mixpanel-Interview-Questions-E406910.htm"
+  url: "https://mixpanel.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Snap / Snapchat"
+  glassdoor: "https://www.glassdoor.com/Interview/Snapchat-Interview-Questions-E671946.htm"
+  url: "http://www.snap.com"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: "Jobber"
+  glassdoor: "https://www.glassdoor.com/Interview/Jobber-Interview-Questions-E1344000.htm"
+  url: "http://www.getjobber.com"
+  interview_types:
+  - whiteboarding
+  - code_review
+
+- name: "Ubisoft"
+  glassdoor: "https://www.glassdoor.com/Interview/Ubisoft-Interview-Questions-E12717.htm"
+  url: "http://www.ubisoft.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Behaviour Interactive"
+  url: "http://www.hbvr.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Turbulent"
+  url: "http://www.turbulent.ca/"
+  interview_types:
+  - whiteboarding
+
+- name: "Wolters Kluwer"
+  glassdoor: "https://www.glassdoor.com/Interview/Wolters-Kluwer-Interview-Questions-E10497.htm"
+  url: "http://www.wolterskluwer.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Button"
+  glassdoor: "https://www.glassdoor.com/Interview/Button-Interview-Questions-E992376.htm"
+  url: "http://www.usebutton.com"
+  interivew_types:
+  - live_coding
+
+- name: "Yelp"
+  glassdoor: "https://www.glassdoor.com/Interview/Yelp-Interview-Questions-E43314.htm"
+  url: "http://www.yelp.com"
+  interview_types:
+  - live_coding
+
+- name: "Palantir"
+  glassdoor: "https://www.glassdoor.com/Interview/Palantir-Technologies-Interview-Questions-E236375.htm"
+  url: "http://www.palantir.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Intrepid"
+  glassdoor: "https://www.glassdoor.com/Interview/Intrepid-Pursuits-Interview-Questions-E772502.htm"
+  url: "http://www.intrepid.io"
+  interview_types:
+  - whiteboarding
+
+- name: "Aetna (Data Science Group)"
+  glassdoor: "https://www.glassdoor.com/Interview/Aetna-Interview-Questions-E16.htm"
+  url: "http://www.aetna.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Jet"
+  glassdoor: "https://www.glassdoor.com/Interview/Jet-New-York-City-Interview-Questions-EI_IE876778.0,3_IL.4,17_IM615.htm"
+  url: "http://www.jet.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Kira Systems"
+  url: "https://kirasystems.com"
+  interview_types:
+  - live_coding
+  - homework
+  - code_review
+
+- name: "Dropbox"
+  url: "https://www.dropbox.com"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+  - whiteboarding
+
+- name: "MakeMyTrip"
+  glassdoor: "https://www.glassdoor.co.in/Interview/MakeMyTrip-Interview-Questions-E354629.htm"
+  url: "https://www.makemytrip.com"
+  interview_types:
+  - whiteboarding
+
+- name: "Grant Street Group"
+  glassdoor: "https://www.glassdoor.com/Interview/Grant-Street-Group-Interview-Questions-E468765.htm"
+  url: "https://www.grantstreet.com/"
+  interview_types:
+  - online_coding_challenge
+
+- name: "RedMart"
+  glassdoor: "https://www.glassdoor.co.in/Interview/Redmart-Interview-Questions-E928875.htm"
+  url: "https://www.redmart.com"
+  interview_types:
+  - whiteboarding
+  - homework
+
+- name: "ClearTrip"
+  glassdoor: "https://www.glassdoor.co.in/Interview/Cleartrip-Interview-Questions-E307225.htm"
+  url: "https://www.cleartrip.com"
+  interview_types:
+  - live_coding
+
+- name: "HealthifyMe"
+  glassdoor: "https://www.glassdoor.co.in/Interview/HealthifyMe-Interview-Questions-E783982.htm"
+  url: "https://www.healthifyme.com"
+  interview_types:
+  - homework
+  - whiteboarding
+  - live_coding
+
+- name: "MobStac"
+  glassdoor: "https://www.glassdoor.co.in/Interview/MobStac-Interview-Questions-E598352.htm"
+  url: "https://www.mobstac.com"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Trivago"
+  glassdoor: "https://www.glassdoor.co.in/Interview/trivago-Interview-Questions-E673041.htm"
+  url: "https://www.trivago.com"
+  interview_types:
+  - homework
+
+- name: "GoJek"
+  glassdoor: "https://www.glassdoor.co.in/Interview/GO-JEK-Indonesia-Interview-Questions-E1282114.htm"
+  url: "https://www.gojek.com"
+  interview_types:
+  - homework
+
+- name: "HotStar"
+  glassdoor: "https://www.glassdoor.co.in/Interview/Hotstar-Interview-Questions-E1465942.htm"
+  url: "https://www.hotstar.com"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: "NoonAcademy"
+  url: "https://www.non.sa"
+  interview_types:
+  - homework
+  - online_coding_challenge
+
+- name: "Porter"
+  glassdoor: "https://www.glassdoor.co.in/Interview/The-Porter-Interview-Questions-E1480906.htm"
+  url: "https://theporter.in/"
+  interview_types:
+  - homework
+  - code_review
+
+- name: "Branding Brand"
+  url: "http://www.brandingbrand.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Branding-Brand-Pittsburgh-Interview-Questions-EI_IE347091.0,14_IL.15,25_IM684.htm"
+  interview_types:
+  - live_coding
+  - whiteboarding
