@@ -634,3 +634,9 @@
   interview_types:
   - live_coding
   - whiteboarding
+
+- name: "Reddit"
+  url: "http://www.reddit.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Reddit-Interview-Questions-E796358.htm"
+  interview_types:
+  - live_coding
