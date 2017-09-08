@@ -634,6 +634,11 @@
   interview_types:
   - live_coding
   - whiteboarding
+  
+- name: "Cubesmart Self Storage" 
+  url: "http://www.cubesmart.com/"
+  interview_types: 
+    - homework
 
 - name: "Reddit"
   url: "http://www.reddit.com/"
