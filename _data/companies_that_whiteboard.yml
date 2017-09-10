@@ -640,3 +640,10 @@
   glassdoor: "https://www.glassdoor.com/Interview/Reddit-Interview-Questions-E796358.htm"
   interview_types:
   - live_coding
+
+- name: "Rue La La"
+  url: "https://www.ruelala.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/Rue-La-La-Interview-Questions-E369485.htm"
+  interview_types:
+  - whiteboarding
+  - brain_teasers
