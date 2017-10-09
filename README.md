@@ -1,15 +1,27 @@
 # they.whiteboarded.me
 
-## Overview
+## About
 
-This is the GitHub repository for [they.whiteboarded.me](http://they.whiteboarded.me).
+The GitHub repository for [they.whiteboarded.me](//they.whiteboarded.me), a website which advocates for better technical interviews.
 
-This page is created and maintained by using [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
+## Development
 
-## Updates
+This repository is created and maintained with [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
 
-Pull requests to add / modify / delete companies and other pages are welcome and encouraged!
+### Installation
 
-## How to update
+1. Make sure you have [Ruby](https://www.ruby-lang.org/en/) installed.
+2. Make sure you have [Bundler](http://bundler.io/) installed.
+3. Clone this repository. `git clone https://github.com/cheesesashimi/theywhiteboardedme.git`
+4. `cd theywhiteboardedme/`
+5. `bundle install`
+6. `bundle exec jekyll serve`
+7. Go to `localhost:4000` in a web browser.
 
-To add, modify or delete a company, modify the appropriate file in the `_data` directory.
+## Contributing
+
+Pull Requests to add, modify, or delete companies, as well as pages, are welcome and encouraged!
+
+### How to Update
+
+To add, modify, or delete a company, modify the appropriate file in the `_data` directory.
