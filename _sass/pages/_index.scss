@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
+$color-primary: #222831;
+$color-secondary: #F95959;
+$white: #EEEEEE;
+
 html {
   box-sizing: border-box;
 }
@@ -8,16 +12,38 @@ html {
 }
 
 body {
+  background-color: $color-primary;
   margin: 0;
 }
 
 #top {
+  background-color: $white;
   height: 85vh;
+  padding-top: 35px;
 }
 
 #middle {
-  background-color: royalblue;
-  height: 500px;
+  color: $white;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.5;
+  letter-spacing: 0.2px;
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 25px;
+
+  h2 {
+    color: $color-secondary;
+    font-size: 2em;
+    margin-top: 0;
+  }
+
+  p {
+    font-size: 1em;
+  }
+
+  a {
+    color: $color-secondary;
+  }
 }
 
 .eraser {
@@ -131,12 +157,13 @@ body {
   border-radius: 5px;
   box-shadow: inset -1px 2px 2px #404040, 6px 9px 1px rgba(0, 0, 0, 0.1);
   height: 75vh;
-  margin: 25px auto;
+  margin: 0 auto;
   padding: 0 15px;
   position: relative;
   width: 95%;
 
   h1 {
+    color: $color-primary;
     font-family: 'Arial', sans-serif;
     font-size: 4em;
     hyphens: auto;
@@ -191,3 +218,14 @@ body {
   }
 }
 
+footer {
+  background-color: $white;
+  font-family: 'Arial', sans-serif;
+  padding: 25px 0;
+  text-align: center;
+  width: 100%;
+
+  a {
+    color: $color-secondary;
+  }
+}
