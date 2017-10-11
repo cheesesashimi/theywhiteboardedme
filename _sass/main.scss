@@ -3,6 +3,7 @@
 
 html {
   box-sizing: border-box;
+  font-family: $sans-serif;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -12,14 +13,42 @@ body {
   margin: 0;
 }
 
+nav {
+  background-color: $color-primary;
+  color: $white;
+  height: 75px;
+
+  h1 {
+    display: inline-block;
+    margin: 0 25px;
+    padding-top: 25px;
+    text-transform: uppercase;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  a {
+    color: $white;
+  }
+}
+
+header {
+  text-align: center;
+}
+
 footer {
   background-color: $white;
-  font-family: $sans-serif;
   padding: 25px 0;
   text-align: center;
 
   a {
     color: $color-secondary;
+  }
+
+  &.primary {
+    color: $white;
   }
 }
 

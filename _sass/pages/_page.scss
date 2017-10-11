@@ -1,0 +1,33 @@
+.content {
+  a {
+    color: $color-secondary;
+  }
+
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.icon {
+  display: inline-block;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.companies {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+
+  a {
+    color: $color-primary;
+    padding-left: 25px;
+  }
+
+  td {
+    height: 35px;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #efefef;
+  }
+}
