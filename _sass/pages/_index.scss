@@ -1,30 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
-
-$color-primary: #222831;
-$color-secondary: #F95959;
-$white: #EEEEEE;
-
-html {
-  box-sizing: border-box;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
-body {
-  background-color: $color-primary;
-  margin: 0;
-}
-
 #top {
-  background-color: $white;
+  background-color: $off-white;
   height: 85vh;
   padding-top: 35px;
 }
 
 #middle {
-  color: $white;
-  font-family: 'Arial', sans-serif;
+  color: $off-white;
+  font-family: $sans-serif;
   line-height: 1.5;
   letter-spacing: 0.2px;
   margin: 0 auto;
@@ -37,29 +19,25 @@ body {
     margin-top: 0;
   }
 
-  p {
-    font-size: 1em;
-  }
-
   a {
     color: $color-secondary;
   }
 }
 
 .eraser {
-  background-color: black;
+  background-color: $black;
   height: 10px;
   width: 40px;
 }
 
 .marker {
-  background-color: white;
+  background-color: $white;
   height: 10px;
   position: relative;
   width: 50px;
 
   .body {
-    border: 1px solid black;
+    border: 1px solid $black;
     border-top-left-radius: 5%;
     border-bottom-left-radius: 5%;
     height: 10px;
@@ -80,25 +58,25 @@ body {
       display: block;
       height: 5px;
       position: absolute;
-      right: -2.5px;
+      right: -3px;
       top: 2.5px;
-      width: 2.5px;
+      width: 3px;
     }
   }
 
   .red {
-    background-color: #EE204D;
+    background-color: $marker-red;
 
     &::after {
-      background-color: #EE204D;
+      background-color: $marker-red;
     }
   }
 
   .black {
-    background-color: black;
+    background-color: $black;
 
     &::after {
-      background-color: black;
+      background-color: $black;
     }
   }
 }
@@ -107,7 +85,7 @@ body {
   position: relative;
 
   .circle {
-    border: 2px solid black;
+    border: 2px solid $black;
     border-radius: 50%;
     display: block;
     height: 20px;
@@ -130,7 +108,7 @@ body {
   }
 
   .line {
-    background-color: black;
+    background-color: $black;
     display: block;
     height: 2px;
     position: absolute;
@@ -152,8 +130,8 @@ body {
 }
 
 .whiteboard {
-  background-color: white;
-  border: 10px solid #A0A0A0;
+  background-color: $white;
+  border: 10px solid $whiteboard-gray;
   border-radius: 5px;
   box-shadow: inset -1px 2px 2px #404040, 6px 9px 1px rgba(0, 0, 0, 0.1);
   height: 75vh;
@@ -164,8 +142,10 @@ body {
 
   h1 {
     color: $color-primary;
-    font-family: 'Arial', sans-serif;
+    font-family: $sans-serif;
     font-size: 4em;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
     hyphens: auto;
     text-transform: uppercase;
   }
@@ -174,6 +154,7 @@ body {
     h1 {
       font-size: 5em;
       text-align: center;
+      margin-top: 150px;
     }
   }
 
@@ -194,38 +175,26 @@ body {
   }
 
   .problems {
-    font-family: 'Permanent Marker', 'Arial', sans-serif;
+    font-family: 'Permanent Marker', $sans-serif;
 
-      .fizz-buzz {
-        bottom: 50px;
-        position: absolute;
-        right: 50px;
-        transform: rotate(350deg);
-      }
+    .fizz-buzz {
+      bottom: 50px;
+      position: absolute;
+      right: 50px;
+      transform: rotate(350deg);
+    }
 
-      .complexity {
-        bottom: 100px;
-        position: absolute;
-        right: 100px;
-        transform: rotate(10deg);
-      }
+    .complexity {
+      bottom: 100px;
+      position: absolute;
+      right: 100px;
+      transform: rotate(10deg);
+    }
 
-      .tree {
-        bottom: 100px;
-        position: absolute;
-        right: 250px;
-      }
-  }
-}
-
-footer {
-  background-color: $white;
-  font-family: 'Arial', sans-serif;
-  padding: 25px 0;
-  text-align: center;
-  width: 100%;
-
-  a {
-    color: $color-secondary;
+    .tree {
+      bottom: 100px;
+      position: absolute;
+      right: 250px;
+    }
   }
 }

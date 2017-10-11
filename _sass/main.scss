@@ -1,1 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import 'variables';
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+footer {
+  background-color: $white;
+  font-family: $sans-serif;
+  padding: 25px 0;
+  text-align: center;
+
+  a {
+    color: $color-secondary;
+  }
+}
+
+.primary {
+  background-color: $color-primary;
+}
+
 @import 'pages/index';
+@import 'pages/page';
