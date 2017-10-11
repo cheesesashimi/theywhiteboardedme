@@ -1,0 +1,46 @@
+<table class="companies">
+{% assign sorted_companies = (include.companies | sort: 'name') %}
+{% for company in sorted_companies %}
+  <tr>
+    <td class="company-name">
+      <a href="{{ company.url }}">{{ company.name }}</a>
+    </td>
+
+    <td>
+      {% if company.glassdoor %}
+      <a title="Glassdoor profile for {{ company.name }}" href="{{ company.glassdoor }}">
+        {% include images/glassdoor.html company_name=company.name %}
+      </a>
+      {% endif %}
+    </td>
+
+    {% if company.interview_types %}
+      <td>
+        {% if company.interview_types contains "online_coding_challenge" %}
+          {% include images/online_coding_challenge.html %}
+        {% endif %}
+      </td>
+      <td>
+        {% if company.interview_types contains "whiteboarding" %}
+          {% include images/whiteboarding.html %}
+        {% endif %}
+      </td>
+      <td>
+        {% if company.interview_types contains "live_coding" %}
+          {% include images/live_coding.html %}
+        {% endif %}
+      </td>
+      <td>
+        {% if company.interview_types contains "homework" %}
+          {% include images/homework.html %}
+        {% endif %}
+      </td>
+      <td>
+        {% if company.interview_types contains "code_review" %}
+          {% include images/code_review.html %}
+        {% endif %}
+      </td>
+    {% endif %}
+  </tr>
+{% endfor %}
+</table>
