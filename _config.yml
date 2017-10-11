@@ -25,11 +25,13 @@ google_analytics: UA-93465666-1
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
 sass:
   sass_dir: _sass
 
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
