@@ -1,12 +1,12 @@
 <footer>
-  <p>{{ site.title }}</p>
+  <p>{{ site.title | escape }}</p>
 
   {% if site.github_repo %}
-    <p>{% include github-repo.html username=site.github_username repo=site.github_repo %}</p>
+    <p>{% include social/github-repo.html username=site.github_username repo=site.github_repo %}</p>
   {% endif %}
 
   {% if site.twitter_username %}
-    <p>{% include twitter.html username=site.twitter_username %}</p>
+    <p>{% include social/twitter.html username=site.twitter_username %}</p>
   {% endif %}
 
   <p>
