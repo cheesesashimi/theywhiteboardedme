@@ -1,4 +1,16 @@
-<footer>
+---
+layout: default
+---
+<nav>
+  <h1><a href="/">They Whiteboarded Me</a></h1>
+</nav>
+<header>
+  <h1>{{ page.title | escape }}</h1>
+</header>
+<main class="content">
+  {{ content }}
+</main>
+<footer class="primary">
   <p>{{ site.title | escape }}</p>
 
   {% if site.github_repo %}
