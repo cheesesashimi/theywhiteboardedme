@@ -44,7 +44,7 @@ challenge. Some can take up to several hours.
 Some companies such as Google and Uber provide their own. Others use an
 off-the-shelf coding evaluation site such as:
 
-{% assign sites = (site.data.online_coding_challenges | sort: 'name') %}
+{% assign sites = site.data.online_coding_challenges | sort: 'name' %}
 {% for site in sites limit:3 %}
 - [{{site.name}}]({{site.url}})
 {% endfor %}
