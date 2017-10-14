@@ -1,3 +1,4 @@
+// This section has the Whiteboard in it
 #top {
   background-color: $off-white;
   height: 85vh;
@@ -23,18 +24,21 @@
   }
 }
 
+// Define how the Eraser looks
 .eraser {
   background-color: $black;
   height: 10px;
   width: 40px;
 }
 
+// Define how a Marker looks
 .marker {
   background-color: $white;
   height: 10px;
   position: relative;
   width: 50px;
 
+  // The body of the Marker
   .body {
     border: 1px solid $black;
     border-top-left-radius: 5%;
@@ -44,12 +48,14 @@
     width: 100%;
   }
 
+  // The Shape of the Cap
   .cap {
     height: 10px;
     position: absolute;
     right: 0;
     width: 10px;
 
+    // The Nub on the Cap
     &::after {
       content: '';
       border-top-right-radius: 25%;
@@ -63,6 +69,7 @@
     }
   }
 
+  // Makes the Cap color red
   .red {
     background-color: $marker-red;
 
@@ -71,6 +78,7 @@
     }
   }
 
+  // Makes the Cap color black
   .black {
     background-color: $black;
 
@@ -80,6 +88,7 @@
   }
 }
 
+// Define how the Tree Problem looks
 .tree {
   position: relative;
 
@@ -91,15 +100,18 @@
     position: absolute;
     width: 20px;
 
+    // Root Node
     &.c-1 {
       left: 0;
     }
 
+    // Left Branch Node
     &.c-2 {
       left: -25px;
       top: 30px;
     }
 
+    // Right Branch Node
     &.c-3 {
       left: 40px;
       top: 40px;
@@ -112,6 +124,7 @@
     height: 2px;
     position: absolute;
 
+    // Left Line - connects the Root Node to the Left Branch Node
     &.l-1 {
       left: -12.5px;
       top: 25px;
@@ -119,6 +132,7 @@
       width: 20px;
     }
 
+    // Right Line - connects the Root Node to the Right Branch Node
     &.l-2 {
       left: 12.5px;
       top: 27.5px;
@@ -128,6 +142,7 @@
   }
 }
 
+// Define how the Whiteboard looks
 .whiteboard {
   background-color: $white;
   border: 10px solid $whiteboard-gray;
@@ -148,6 +163,7 @@
     text-transform: uppercase;
   }
 
+  // On larger screens, make better use of the white space
   @media(min-width: 600px) {
     h1 {
       font-size: 5em;
@@ -156,22 +172,28 @@
     }
   }
 
+  // Position the Eraser
   .eraser {
     bottom: 0;
     position: absolute;
     right: 50px;
   }
 
-  .marker {
+  // Position the Markers
+  .markers {
     bottom: 0;
-    position: absolute;
     left: 10%;
+    position: absolute;
+    width: 100%;
+
+    .marker {
+      display: inline-block;
+      margin-left: 2%;
+      vertical-align: bottom;
+    }
   }
 
-  .marker + .marker {
-    margin-left: 75px;
-  }
-
+  // Position the Problems
   .problems {
     font-family: 'Permanent Marker', $sans-serif;
 

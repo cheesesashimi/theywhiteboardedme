@@ -1,18 +1,40 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 @import 'variables';
 
+// Box-sizing Fix
 html {
   box-sizing: border-box;
-  font-family: $sans-serif;
 }
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
+// Global Sans-serif Font
+html {
+  font-family: $sans-serif;
+}
+
+// Sticky Footer
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+// Remove Margin
 body {
   margin: 0;
 }
 
+// Navigation
 nav {
   background-color: $color-primary;
   color: $white;
@@ -21,7 +43,7 @@ nav {
   h1 {
     display: inline-block;
     margin: 0 25px;
-    padding-top: 25px;
+    padding: 25px 0;
     text-transform: uppercase;
 
     a {
@@ -34,21 +56,23 @@ nav {
   }
 }
 
+// Center Page Titles
 header {
   text-align: center;
 }
 
+// Footer
 footer {
-  background-color: $white;
-  padding: 25px 0;
+  background-color: $white; // By default, has white background-color
   text-align: center;
+  width: 100%;
 
   a {
     color: $color-secondary;
   }
 
   &.primary {
-    color: $white;
+    color: $white; // When class="primary", change the dark text to white
   }
 }
 
