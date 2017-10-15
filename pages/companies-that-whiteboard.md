@@ -20,4 +20,5 @@ for other companies, such as the ones listed above:
 {% include company.html companies=site.data.screening_companies %}
 
 ## Legend
+
 {% include legend.html %}
