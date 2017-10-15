@@ -34,7 +34,34 @@ body {
   margin: 0;
 }
 
-// Navigation
+//Navigation
+.nav-index {
+  text-align: center;
+
+  a {
+    color: $white;
+  }
+
+  ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  // At mobile phone sized screens, put each link on a separate line
+  @media(max-width: 600px) {
+    li {
+      display: block;
+      margin: 15px 0;
+    }
+  }
+}
+
 .nav-primary {
   background-color: $color-primary;
   color: $white;
@@ -68,6 +95,8 @@ body {
     margin-left: 20px;
   }
 
+  // At tablet landscape sized screens, drop the nav
+  // to another line and center the content
   @media(max-width: 1224px) {
     min-height: 125px;
 
@@ -78,6 +107,7 @@ body {
     }
   }
 
+  // At mobile phone sized screens, put each link on a separate line
   @media(max-width: 600px) {
     min-height: 200px;
 
