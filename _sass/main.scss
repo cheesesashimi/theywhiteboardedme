@@ -148,5 +148,13 @@ footer {
   background-color: $color-primary;
 }
 
+// This is needed because on Chrome Mobile,
+// these tags don't seem have a height property,
+// causing either the content to overlap or the
+// background-color not to be set.
+header, footer {
+  flex: 1 0 auto;
+}
+
 @import 'pages/index';
 @import 'pages/page';
