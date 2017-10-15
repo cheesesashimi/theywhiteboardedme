@@ -35,24 +35,61 @@ body {
 }
 
 // Navigation
-nav {
+.nav-primary {
   background-color: $color-primary;
   color: $white;
-  height: 75px;
+  min-height: 75px;
 
   h1 {
     display: inline-block;
     margin: 0 25px;
     padding: 25px 0;
     text-transform: uppercase;
-
-    a {
-      text-decoration: none;
-    }
   }
 
   a {
     color: $white;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  ul {
+    display: inline-block;
+    list-style: none;
+    margin-left: 25%;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  @media(max-width: 1224px) {
+    min-height: 125px;
+
+    ul {
+      display: block;
+      margin: 15px 0 0;
+      text-align: center;
+    }
+  }
+
+  @media(max-width: 600px) {
+    min-height: 200px;
+
+    ul {
+      margin: 0 25px;
+      text-align: left;
+    }
+
+    li {
+      display: block;
+      margin: 15px 0;
+    }
   }
 }
 
@@ -64,6 +101,7 @@ header {
 // Footer
 footer {
   background-color: $white; // By default, has white background-color
+  margin-top: 25px;
   text-align: center;
   width: 100%;
 

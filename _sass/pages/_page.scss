@@ -1,10 +1,15 @@
 .content {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 0 5px;
+
   a {
     color: $color-secondary;
   }
 
-  max-width: 750px;
-  margin: 0 auto;
+  ul {
+    line-height: 1.5;
+  }
 }
 
 .icon {
@@ -29,5 +34,9 @@
 
   tr:nth-child(odd) {
     background-color: #efefef;
+  }
+
+  .company-name {
+    width: 50%;
   }
 }
