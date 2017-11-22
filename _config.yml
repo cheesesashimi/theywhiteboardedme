@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "They Whiteboarded Me!"
+title: They Whiteboarded Me
 url: http://they.whiteboarded.me
 twitter_username: whiteboarded_me
 github_username: cheesesashimi
@@ -24,9 +24,14 @@ google_analytics: UA-93465666-1
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
+
+plugins:
+  - jekyll-seo-tag
   - jekyll-feed
+
+sass:
+  sass_dir: _sass
+
 exclude:
   - Gemfile
   - Gemfile.lock

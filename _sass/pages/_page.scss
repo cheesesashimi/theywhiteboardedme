@@ -1,0 +1,42 @@
+.content {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 0 5px;
+
+  a {
+    color: $color-secondary;
+  }
+
+  ul {
+    line-height: 1.5;
+  }
+}
+
+.icon {
+  display: inline-block;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.companies {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+
+  a {
+    color: $color-primary;
+    padding-left: 25px;
+  }
+
+  td {
+    height: 35px;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #efefef;
+  }
+
+  .company-name {
+    width: 50%;
+  }
+}

@@ -1,0 +1,6 @@
+{% if include.company_name %}
+  {% capture title %}Glassdoor Profile for {{ include.company_name }}{% endcapture %}
+{% else %}
+  {% capture title %}Glassdoor{% endcapture %}
+{% endif %}
+<img class="icon" title="{{ title }}" alt="{{ title }}" src="/images/glassdoor.svg">

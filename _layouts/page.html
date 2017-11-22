@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<nav class="nav-primary">
+  <h1><a href="/">They Whiteboarded Me</a></h1>
+  <ul>
+    <li><a href="/companies-that-whiteboard.html">Companies That Whiteboard</a></li>
+    <li><a href="/companies-that-dont-whiteboard.html">Companies That Don't Whiteboard</a></li>
+    <li><a href="/faq.html">FAQ</a></li>
+  </ul>
+</nav>
+<header>
+  <h1>{{ page.title | escape }}</h1>
+</header>
+<main class="content">
+  {{ content }}
+</main>
+<footer class="primary">
+  <p>{{ site.title | escape }}</p>
+
+  {% if site.github_repo %}
+    <p>{% include social/github-repo.html username=site.github_username repo=site.github_repo %}</p>
+  {% endif %}
+
+  {% if site.twitter_username %}
+    <p>{% include social/twitter.html username=site.twitter_username %}</p>
+  {% endif %}
+
+  {% include attribution.html %}
+</footer>

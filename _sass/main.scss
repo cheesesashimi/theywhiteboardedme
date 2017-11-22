@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import 'variables';
+
+// Box-sizing Fix
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+// Global Sans-serif Font
+html {
+  font-family: $sans-serif;
+}
+
+// Sticky Footer
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+// Remove Margin
+body {
+  margin: 0;
+}
+
+// Navigation
+.nav-index {
+  text-align: center;
+
+  a {
+    color: $white;
+  }
+
+  ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  // At mobile phone sized screens, put each link on a separate line
+  @media(max-width: 600px) {
+    li {
+      display: block;
+      margin: 15px 0;
+    }
+  }
+}
+
+.nav-primary {
+  background-color: $color-primary;
+  color: $white;
+  min-height: 75px;
+
+  h1 {
+    display: inline-block;
+    margin: 0 25px;
+    padding: 25px 0;
+    text-transform: uppercase;
+  }
+
+  a {
+    color: $white;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  ul {
+    display: inline-block;
+    list-style: none;
+    margin-left: 25%;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  // At tablet landscape sized screens, drop the nav
+  // to another line and center the content
+  @media(max-width: 1224px) {
+    min-height: 125px;
+
+    ul {
+      display: block;
+      margin: 15px 0 0;
+      text-align: center;
+    }
+  }
+
+  // At mobile phone sized screens, put each link on a separate line
+  @media(max-width: 600px) {
+    min-height: 200px;
+
+    ul {
+      margin: 0 25px;
+      text-align: left;
+    }
+
+    li {
+      display: block;
+      margin: 15px 0;
+    }
+  }
+}
+
+// Center Page Titles
+header {
+  text-align: center;
+}
+
+// Footer
+footer {
+  background-color: $white; // By default, has white background-color
+  margin-top: 25px;
+  text-align: center;
+  width: 100%;
+
+  a {
+    color: $color-secondary;
+  }
+
+  &.primary {
+    color: $white; // When class="primary", change the dark text to white
+  }
+}
+
+.primary {
+  background-color: $color-primary;
+}
+
+// This is needed because on Chrome Mobile,
+// these tags don't seem have a height property,
+// causing either the content to overlap or the
+// background-color not to be set.
+header, footer {
+  flex: 1 0 auto;
+}
+
+@import 'pages/index';
+@import 'pages/page';

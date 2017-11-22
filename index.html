@@ -1,0 +1,81 @@
+---
+layout: default
+---
+<main class="primary">
+  <section id="top">
+    <div class="whiteboard">
+      <h1>They Whiteboarded Me</h1>
+      <div class="eraser"></div>
+      <div class="markers">
+        <div class="marker">
+          <span class="body"></span>
+          <span class="cap black"></span>
+        </div>
+        <div class="marker">
+          <span class="body"></span>
+          <span class="cap red"></span>
+        </div>
+      </div>
+      <div class="problems">
+        <span class="fizz-buzz">Fizz Buzz</span>
+        <span class="complexity">O(nlog(n))</span>
+        <div class="tree">
+          <span class="circle c-1"></span>
+          <span class="circle c-2"></span>
+          <span class="circle c-3"></span>
+          <span class="line l-1"></span>
+          <span class="line l-2"></span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <nav class="nav-index">
+    <ul>
+      <li><a href="/companies-that-whiteboard.html">Companies That Whiteboard</a></li>
+      <li><a href="/companies-that-dont-whiteboard.html">Companies That Don't Whiteboard</a></li>
+      <li><a href="/faq.html">FAQ</a></li>
+    </ul>
+  </nav>
+  <section id="middle">
+    <h2>Introduction</h2>
+    <p>
+      From coding challenges that measure the wrong things, to demoralizing whiteboarding or live-coding interviews that only seem to cause and placate impostor syndrome, reduce diversity and place applicants under significant stress, it is obvious that things are broken.
+    </p>
+    <p>
+      It's time that tech workers demand a better interview process. How do we do that? Simple!
+    </p>
+    <h2>Step 1</h2>
+    <p>
+      Review <a href="/companies-that-whiteboard.html">the list</a> of companies that whiteboard.
+    </p>
+    <h2>Step 2</h2>
+
+    <h3>I'm Looking for a Job</h3>
+    <p>
+      If you are looking for a job, only apply and accept interview requests with companies that do not whiteboard. A handy list of companies that do not whiteboard may be found, courtesy of <a href="https://github.com/poteto/hiring-without-whiteboards">Hiring Without Whiteboards</a>. Decline interview requests with companies that do whiteboard. Be sure to explain why you are declining to interview with a given company.
+    </p>
+
+    <h3>I'm Not Looking for a Job and My Company Does Not Whiteboard</h3>
+    <p>
+      Awesome! Our friends at <a href="https://github.com/poteto/hiring-without-whiteboards">Hiring Without Whiteboards</a> would love to know about that! Submit a Pull Request and you'll get a lot of awesome people headed your way!
+    </p>
+
+    <h3>I'm Not Looking for a Job and My Company Whiteboards</h3>
+    <p>
+      Please have a look at why <a href="/interview_types/whiteboarding_and_live_coding.html">whiteboarding is bad</a>. This next part is easier said than done, but please fix your process. It will benefit your company in the long run. Plus, you will be removed from <a href="/companies-that-whiteboard.html">the list</a>.
+    </p>
+  </section>
+</main>
+<footer>
+  <p>{{ site.title | escape }}</p>
+
+  {% if site.github_repo %}
+    <p>{% include social/github-repo.html username=site.github_username repo=site.github_repo %}</p>
+  {% endif %}
+
+  {% if site.twitter_username %}
+    <p>{% include social/twitter.html username=site.twitter_username %}</p>
+  {% endif %}
+
+  {% include attribution.html %}
+</footer>

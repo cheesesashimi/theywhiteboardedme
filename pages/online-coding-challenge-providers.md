@@ -8,7 +8,7 @@ This is a list of companies that provide [automated coding
 challenges](/interview_types/online_coding_challenges.html) for job interview
 candidates.
 
-{% assign sites = (site.data.online_coding_challenges | sort: 'name') %}
+{% assign sites = site.data.online_coding_challenges | sort: 'name' %}
 {% for site in sites %}
 - [{{site.name}}]({{site.url}})
 {% endfor %}
