@@ -660,3 +660,18 @@
   glassdoor: "https://www.glassdoor.com/Interview/Express-Scripts-Interview-Questions-E2212.htm"
   interview_types:
   - whiteboarding
+
+- name: "Showclix"
+  url: "https://www.showclix.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/ShowClix-Pittsburgh-Interview-Questions-EI_IE816994.htm"
+  interview_types:
+  - homework
+  - whiteboarding
+
+- name: "LinkedIn"
+  url: "http://www.linkedin.com/"
+  glassdoor: "https://www.glassdoor.com/Interview/LinkedIn-Interview-Questions-E34865.htm"
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - code_review
