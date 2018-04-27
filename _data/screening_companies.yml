@@ -18,3 +18,9 @@
   url: "https://www.landing.jobs"
   interview_types:
   - online_coding_challenge
+
+- name: interviewing.io
+  url: "https://interviewing.io"
+  interview_types:
+  - online_coding_challenge
+  - live_coding
