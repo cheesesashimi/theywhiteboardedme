@@ -675,3 +675,65 @@
   - whiteboarding
   - live_coding
   - code_review
+
+- name: "LinkValue (Paris)"
+  url: "https://link-value.fr/fr"
+  glassdoor: "https://www.glassdoor.fr/Pr%C3%A9sentation/Travailler-chez-LinkValue-EI_IE1574505.16,25.htm"
+  interview_types:
+  - whiteboarding
+
+- name: "ElevenLabs (Paris)"
+  url: "https://eleven-labs.com/"
+  glassdoor: "https://www.glassdoor.fr/Avis/Eleven-Labs-Avis-E1062804.htm"
+  interview_types:
+  - whiteboarding
+
+- name: "Orange (fr)"
+  url: "https://www.orange.fr/portail"
+  glassdoor: "https://www.glassdoor.fr/Avis/Orange-Avis-E4075.htm"
+  interview_types:
+  - whiteboarding
+
+- name: "Ausy (fr)"
+  url: "https://www.ausy.com"
+  glassdoor: "https://www.glassdoor.com/Reviews/Ausy-Reviews-E216103.htm"
+  interview_types:
+  - whiteboarding
+
+- name: "Degetel (fr)"
+  url: "http://www.degetel.com/"
+  glassdoor: "https://www.glassdoor.com/Reviews/Degetel-Reviews-E774564.htm"
+  interview_types:
+  - whiteboarding
+  - online_coding_challenge
+
+- name: "Blablacar (Paris)"
+  url: "https://www.blablacar.com"
+  glassdoor: "https://www.glassdoor.com/Reviews/BlaBlaCar-Reviews-E840434.htm"
+  interview_types:
+  - whiteboarding
+  - online_coding_challenge
+
+- name: "UrbanLinker (Paris)"
+  url: "https://www.urbanlinker.com/welcome"
+  interview_types:
+  - whiteboarding
+
+- name: "X2i (fr)"
+  url: "http://www.x2i.fr"
+  interview_types:
+  - whiteboarding
+
+- name: "Budget energy"
+  url: "https://budgetenergy.co.uk/"
+  glassdoor: "https://www.glassdoor.co.in/Overview/Working-at-Budget-Energy-EI_IE1173533.11,24.htm"
+  interview_types:
+  - online_coding_challenge
+
+- name: "Flixbus (Berlin)"
+  url: "https://www.flixbus.com/"
+  glassdoor: "https://www.glassdoor.com/Reviews/FlixBus-Reviews-E976463_P3.htm"
+  interview_types:
+  - whiteboarding
+  - online_coding_challenge
+
