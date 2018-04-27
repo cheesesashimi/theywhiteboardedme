@@ -737,3 +737,9 @@
   - whiteboarding
   - online_coding_challenge
 
+- name: "Argo AI"
+  url: "https://argo.ai"
+  glassdoor: "https://www.glassdoor.com/Overview/Working-at-Argo-AI-EI_IE1568279.11,18.htm"
+  interview_types:
+  - online_coding_challenge
+  - live_coding
