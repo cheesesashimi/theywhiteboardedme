@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: They Whiteboarded Me
 url: http://they.whiteboarded.me
 twitter_username: whiteboarded_me
-github_username: cheesesashimi
-github_repo: theywhiteboardedme
-github_repo_link: "https://github.com/cheesesashimi/theywhiteboardedme"
+github:
+repository: "cheesesashimi/theywhiteboardedme"
 
 google_analytics: UA-93465666-1
 
