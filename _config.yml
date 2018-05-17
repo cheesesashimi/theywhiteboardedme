@@ -18,6 +18,8 @@ title: They Whiteboarded Me
 url: http://they.whiteboarded.me
 twitter_username: whiteboarded_me
 github:
+github_repo: "theywhiteboardedme"
+github_username: "cheesesashimi"
 repository: "cheesesashimi/theywhiteboardedme"
 
 google_analytics: UA-93465666-1
@@ -36,3 +38,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - Dockerfile
+  - docker-compose.yml
+  - utils/*
