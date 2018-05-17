@@ -1,0 +1,8 @@
+# O Companies
+# o.yml
+
+- name: Orange (fr)
+  url: https://www.orange.fr/portail
+  glassdoor: https://www.glassdoor.fr/Avis/Orange-Avis-E4075.htm
+  interview_types:
+  - whiteboarding

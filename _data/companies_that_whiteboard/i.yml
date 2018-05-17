@@ -1,0 +1,28 @@
+# I Companies
+# i.yml
+
+- name: IBM
+  url: http://www.ibm.com
+  glassdoor: https://www.glassdoor.com/Interview/IBM-Interview-Questions-E354.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
+
+- name: InMobi
+  url: http://www.inmobi.com
+  glassdoor: https://www.glassdoor.com/Interview/InMobi-Interview-Questions-E373348.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Intel
+  url: http://www.intel.com
+  glassdoor: https://www.glassdoor.com/Interview/Intel-Corporation-Interview-Questions-E1519.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Intrepid
+  url: http://www.intrepid.io
+  glassdoor: https://www.glassdoor.com/Interview/Intrepid-Pursuits-Interview-Questions-E772502.htm
+  interview_types:
+  - whiteboarding

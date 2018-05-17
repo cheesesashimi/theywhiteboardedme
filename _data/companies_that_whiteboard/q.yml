@@ -1,0 +1,16 @@
+# Q Companies
+# q.yml
+
+# q.yml is purposely empty.
+# Feel free to send a PR to populate!
+
+
+#- name: Company
+#  url: http://www.company.com
+#  glassdoor: http://www.glassdoor.com/path/to/interview/reviews
+#  interview_types:
+#  - online_coding_challenge
+#  - live_coding
+
+
+[]

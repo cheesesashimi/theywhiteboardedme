@@ -1,0 +1,41 @@
+# G Companies
+# g.yml
+
+- name: GetTaxi (Gett)
+  url: https://gett.com
+  glassdoor: https://www.glassdoor.com/Interview/Gett-Software-Development-Engineer-Interview-Questions-EI_IE810731.0,4_KO5,34.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: GoCardless
+  url: http://www.gocardless.com
+  interview_types:
+  - homework
+
+- name: GoJek
+  url: https://www.gojek.com
+  glassdoor: https://www.glassdoor.co.in/Interview/GO-JEK-Indonesia-Interview-Questions-E1282114.htm
+  interview_types:
+  - homework
+
+- name: Google
+  url: http://www.google.com
+  glassdoor: https://www.glassdoor.com/Interview/Google-Interview-Questions-E9079.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
+
+- name: Grant Street Group
+  url: https://www.grantstreet.com/
+  glassdoor: https://www.glassdoor.com/Interview/Grant-Street-Group-Interview-Questions-E468765.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: GrubHub
+  url: http://www.grubhub.com
+  glassdoor: https://www.glassdoor.com/Interview/GrubHub-Interview-Questions-E419089.htm
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge

@@ -1,0 +1,76 @@
+# S Companies
+# s.yml
+
+- name: Samsung
+  url: http://www.samsung.com
+  glassdoor: https://www.glassdoor.com/Interview/Samsung-Interview-Questions-E3363.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Sendgrid
+  url: http://www.sendgrid.com
+  glassdoor: https://www.glassdoor.com/Interview/SendGrid-Interview-Questions-E466121.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: ServiceNow
+  url: http://www.servicenow.com
+  glassdoor: https://www.glassdoor.com/Interview/ServiceNow-Interview-Questions-E403326.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Showclix
+  url: https://www.showclix.com/
+  glassdoor: https://www.glassdoor.com/Interview/ShowClix-Pittsburgh-Interview-Questions-EI_IE816994.htm
+  interview_types:
+  - homework
+  - whiteboarding
+
+- name: Simon Data
+  url: https://www.simondata.com/
+  interview_types:
+  - live_coding
+
+- name: Snap / Snapchat
+  url: http://www.snap.com
+  glassdoor: https://www.glassdoor.com/Interview/Snapchat-Interview-Questions-E671946.htm
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: Snapdeal.com
+  url: http://www.snapdeal.com
+  interview_types:
+  - online_coding_challenge
+
+- name: Splunk
+  url: http://www.splunk.com
+  glassdoor: https://www.glassdoor.com/Interview/Splunk-Interview-Questions-E117313.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Spotify
+  url: https://spotify.com/
+  glassdoor: https://www.glassdoor.com/Interview/Spotify-Interview-Questions-E408251.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Stack Overflow
+  url: http://www.stackoverflow.com
+  glassdoor: https://www.glassdoor.com/Interview/Stack-Overflow-Interview-Questions-E504626.htm
+  interview_types:
+  - live_coding
+  - whiteboarding
+
+- name: SumUp
+  url: https://sumup.com/
+  interview_types:
+  - live_coding
+
+- name: Symantec
+  url: http://www.symantec.com
+  glassdoor: http://www.glassdoor.com/Interview/Symantec-Interview-Questions-E1931.htm
+  interview_types:
+  - online_coding_challenge

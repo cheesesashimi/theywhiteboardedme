@@ -1,0 +1,8 @@
+# V Companies
+# v.yml
+
+- name: VMware
+  url: http://www.vmware.com
+  glassdoor: https://www.glassdoor.com/Interview/VMware-Interview-Questions-E12830.htm
+  interview_types:
+  - online_coding_challenge

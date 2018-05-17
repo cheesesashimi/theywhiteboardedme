@@ -1,0 +1,21 @@
+# J Companies
+# j.yml
+
+- name: Jet
+  url: http://www.jet.com
+  glassdoor: https://www.glassdoor.com/Interview/Jet-New-York-City-Interview-Questions-EI_IE876778.0,3_IL.4,17_IM615.htm
+  interview_types:
+  - whiteboarding
+
+- name: Jobber
+  url: http://www.getjobber.com
+  glassdoor: https://www.glassdoor.com/Interview/Jobber-Interview-Questions-E1344000.htm
+  interview_types:
+  - whiteboarding
+  - code_review
+
+- name: Juniper Networks
+  url: http://www.juniper.net
+  glassdoor: https://www.glassdoor.com/Interview/Juniper-Networks-Interview-Questions-E7224.htm
+  interview_types:
+  - online_coding_challenge

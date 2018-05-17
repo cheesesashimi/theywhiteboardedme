@@ -1,0 +1,14 @@
+# Y Companies
+# y.yml
+
+- name: Yahoo
+  url: http://www.yahoo.com
+  glassdoor: https://www.glassdoor.com/Interview/Yahoo-Interview-Questions-E5807.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Yelp
+  url: http://www.yelp.com
+  glassdoor: https://www.glassdoor.com/Interview/Yelp-Interview-Questions-E43314.htm
+  interview_types:
+  - live_coding

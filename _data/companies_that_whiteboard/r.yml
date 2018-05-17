@@ -1,0 +1,30 @@
+# R Companies
+# r.yml
+
+- name: Rackspace
+  url: http://www.rackspace.com
+  glassdoor: https://www.glassdoor.com/Interview/Rackspace-Interview-Questions-E11783.htm
+  interview_types:
+  - homework
+  - live_coding
+  - whiteboarding
+
+- name: RedMart
+  url: https://www.redmart.com
+  glassdoor: https://www.glassdoor.co.in/Interview/Redmart-Interview-Questions-E928875.htm
+  interview_types:
+  - whiteboarding
+  - homework
+
+- name: Reddit
+  url: http://www.reddit.com/
+  glassdoor: https://www.glassdoor.com/Interview/Reddit-Interview-Questions-E796358.htm
+  interview_types:
+  - live_coding
+
+- name: Rue La La
+  url: https://www.ruelala.com/
+  glassdoor: https://www.glassdoor.com/Interview/Rue-La-La-Interview-Questions-E369485.htm
+  interview_types:
+  - whiteboarding
+  - brain_teasers

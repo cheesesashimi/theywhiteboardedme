@@ -1,0 +1,47 @@
+# P Companies
+# p.yml
+
+- name: Palantir
+  url: http://www.palantir.com
+  glassdoor: https://www.glassdoor.com/Interview/Palantir-Technologies-Interview-Questions-E236375.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Percolate
+  url: http://www.percolate.com
+  glassdoor: https://www.glassdoor.com/Interview/Percolate-Interview-Questions-E695577.htm
+  interview_types:
+  - homework
+  - whiteboarding
+
+- name: Pluralsight
+  url: https://www.pluralsight.com/
+  glassdoor: https://www.glassdoor.com/Interview/Pluralsight-Interview-Questions-E672636.htm
+  interview_types:
+  - online_coding_challenge
+  - live_coding homework
+
+- name: PointClickCare
+  url: https://pointclickcare.com
+  glassdoor: https://www.glassdoor.com/Interview/PointClickCare-Interview-Questions-E452666.htm
+  interview_types:
+  - whiteboarding
+
+- name: Porter
+  url: https://theporter.in/
+  glassdoor: https://www.glassdoor.co.in/Interview/The-Porter-Interview-Questions-E1480906.htm
+  interview_types:
+  - homework
+  - code_review
+
+- name: Privacy
+  url: https://privacy.com/
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: Pure Storage
+  url: http://www.purestorage.com
+  glassdoor: https://www.glassdoor.com/Interview/Pure-Storage-Interview-Questions-E364364.htm
+  interview_types:
+  - online_coding_challenge

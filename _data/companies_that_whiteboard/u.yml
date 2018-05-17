@@ -1,0 +1,21 @@
+# U Companies
+# u.yml
+
+- name: Uber
+  url: http://www.uber.com
+  glassdoor: https://www.glassdoor.com/Interview/Uber-Interview-Questions-E575263.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - online_coding_challenge
+
+- name: Ubisoft
+  url: http://www.ubisoft.com
+  glassdoor: https://www.glassdoor.com/Interview/Ubisoft-Interview-Questions-E12717.htm
+  interview_types:
+  - whiteboarding
+
+- name: UrbanLinker (Paris)
+  url: https://www.urbanlinker.com/welcome
+  interview_types:
+  - whiteboarding

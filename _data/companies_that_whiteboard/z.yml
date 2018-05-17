@@ -1,0 +1,9 @@
+# Z Companies
+# z.yml
+
+- name: Zillow
+  url: http://www.zillow.com
+  glassdoor: https://www.glassdoor.com/Interview/Zillow-Interview-Questions-E40802.htm
+  interview_types:
+  - whiteboarding
+  - live_coding

@@ -1,0 +1,9 @@
+# K Companies
+# k.yml
+
+- name: Kira Systems
+  url: https://kirasystems.com
+  interview_types:
+  - live_coding
+  - homework
+  - code_review

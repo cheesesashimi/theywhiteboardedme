@@ -1,0 +1,41 @@
+# M Companies
+# m.yml
+
+- name: Magento Commerce
+  url: http://www.magento.com/
+  glassdoor: https://www.glassdoor.com/Interview/Magento-Interview-Questions-E348664.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: MakeMyTrip
+  url: https://www.makemytrip.com
+  glassdoor: https://www.glassdoor.co.in/Interview/MakeMyTrip-Interview-Questions-E354629.htm
+  interview_types:
+  - whiteboarding
+
+- name: Microsoft
+  url: http://www.microsoft.com
+  glassdoor: https://www.glassdoor.com/Interview/Microsoft-Interview-Questions-E1651.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: MixPanel
+  url: https://mixpanel.com
+  glassdoor: https://www.glassdoor.com/Interview/Mixpanel-Interview-Questions-E406910.htm
+  interview_types:
+  - whiteboarding
+
+- name: MobStac
+  url: https://www.mobstac.com
+  glassdoor: https://www.glassdoor.co.in/Interview/MobStac-Interview-Questions-E598352.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: MongoDB
+  url: https://www.mongodb.com/
+  glassdoor: https://www.glassdoor.com/Interview/MongoDB-Interview-Questions-E433703.htm
+  interview_types:
+  - whiteboarding
+  - live_coding

@@ -1,0 +1,31 @@
+# H Companies
+# h.yml
+
+- name: HBO
+  url: http://www.hbo.com
+  glassdoor: https://www.glassdoor.com/Interview/HBO-Interview-Questions-E13635.htm
+  interview_types:
+  - whiteboarding
+
+- name: HealthifyMe
+  url: https://www.healthifyme.com
+  glassdoor: https://www.glassdoor.co.in/Interview/HealthifyMe-Interview-Questions-E783982.htm
+  interview_types:
+  - homework
+  - whiteboarding
+  - live_coding
+
+- name: HotStar
+  url: https://www.hotstar.com
+  glassdoor: https://www.glassdoor.co.in/Interview/Hotstar-Interview-Questions-E1465942.htm
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: Hyland Software
+  url: http://www.onbase.com
+  glassdoor: https://www.glassdoor.com/Interview/Hyland-Interview-Questions-E9432.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - code_review

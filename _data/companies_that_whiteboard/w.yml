@@ -1,0 +1,33 @@
+# W Companies
+# w.yml
+
+- name: Wargaming.net
+  url: http://www.wargaming.net/
+  glassdoor: https://www.glassdoor.com/Interview/Wargaming-net-Interview-Questions-E381713.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Wayfair (Berlin)
+  url: https://www.wayfair.com/
+  glassdoor: https://www.glassdoor.com/Interview/Wayfair-Interview-Questions-E134525.htm
+  interview_types:
+  - online_coding_challenge
+  - live_coding
+
+- name: Wikia
+  url: http://www.wikia.com
+  glassdoor: https://www.glassdoor.com/Interview/Fandom-Interview-Questions-E428648.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Wix
+  url: http://www.wix.com/
+  glassdoor: https://www.glassdoor.com/Interview/Wix-Software-Developer-Interview-Questions-EI_IE391615.0,3_KO4,22.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Wolters Kluwer
+  url: http://www.wolterskluwer.com
+  glassdoor: https://www.glassdoor.com/Interview/Wolters-Kluwer-Interview-Questions-E10497.htm
+  interview_types:
+  - whiteboarding

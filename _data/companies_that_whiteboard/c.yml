@@ -1,0 +1,44 @@
+# C Companies
+# c.yml
+
+- name: Casper
+  url: http://www.casper.com
+  glassdoor: https://www.glassdoor.com/Interview/Casper-Interview-Questions-E990859.htm
+  interview_types:
+  - whiteboarding
+
+- name: Check Point Software
+  url: http://www.checkpoint.com
+  glassdoor: https://www.glassdoor.com/Interview/Check-Point-Software-Technologies-Interview-Questions-E6161.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Citibank
+  url: http://www.citibank.com
+  glassdoor: https://www.glassdoor.com/Interview/Citibank-Interview-Questions-E13604.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: ClearTrip
+  url: https://www.cleartrip.com
+  glassdoor: https://www.glassdoor.co.in/Interview/Cleartrip-Interview-Questions-E307225.htm
+  interview_types:
+  - live_coding
+
+- name: Climate Corporation
+  url: http://www.climate.com
+  glassdoor: https://www.glassdoor.com/Interview/The-Climate-Corp-Interview-Questions-E486612.htm
+  interview_types:
+  - live_coding
+
+- name: CockroachDB
+  url: https://www.cockroachlabs.com/
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Cvent
+  url: http://www.cvent.com
+  glassdoor: https://www.glassdoor.com/Interview/Cvent-Interview-Questions-E104683.htm
+  interview_types:
+  - live_coding

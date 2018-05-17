@@ -1,0 +1,7 @@
+# X Companies
+# x.yml
+
+- name: X2i (fr)
+  url: http://www.x2i.fr
+  interview_types:
+  - whiteboarding

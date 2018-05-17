@@ -1,0 +1,14 @@
+# N Companies
+# n.yml
+
+- name: New York Life
+  url: http://www.newyorklife.com
+  glassdoor: https://www.glassdoor.com/Interview/New-York-Life-Interview-Questions-E2915.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: NoonAcademy
+  url: https://www.non.sa
+  interview_types:
+  - homework
+  - online_coding_challenge

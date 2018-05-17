@@ -1,0 +1,28 @@
+# D Companies
+# d.yml
+
+- name: Degetel (fr)
+  url: http://www.degetel.com/
+  glassdoor: https://www.glassdoor.com/Reviews/Degetel-Reviews-E774564.htm
+  interview_types:
+  - whiteboarding
+  - online_coding_challenge
+
+- name: DoubleDutch
+  url: http://doubledutch.me/
+  glassdoor: https://www.glassdoor.com/Interview/DoubleDutch-Interview-Questions-E664774.htm
+  interview_types:
+  - whiteboarding
+
+- name: Dropbox
+  url: https://www.dropbox.com
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+  - whiteboarding
+
+- name: Duolingo
+  url: http://www.duolingo.com
+  glassdoor: https://www.glassdoor.com/Interview/Duolingo-Interview-Questions-E629348.htm
+  interview_types:
+  - whiteboarding

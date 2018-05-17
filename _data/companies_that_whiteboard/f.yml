@@ -1,0 +1,35 @@
+# F Companies
+# f.yml
+
+- name: FH consulting
+  url: http://www.fh.com.br
+  interview_types:
+  - whiteboarding
+
+- name: Facebook
+  url: http://www.facebook.com
+  glassdoor: https://www.glassdoor.com/Interview/Facebook-Interview-Questions-E40772.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: FarmLogs
+  url: https://farmlogs.com/
+  glassdoor: https://www.glassdoor.com/Interview/FarmLogs-Interview-Questions-E930306.htm
+  interview_types:
+  - live_coding
+
+- name: Fitbit
+  url: http://www.fitbit.com
+  glassdoor: https://www.glassdoor.com/Interview/Fitbit-Interview-Questions-E500145.htm
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Flixbus (Berlin)
+  url: https://www.flixbus.com/
+  glassdoor: https://www.glassdoor.com/Reviews/FlixBus-Reviews-E976463_P3.htm
+  interview_types:
+  - whiteboarding
+  - online_coding_challenge

@@ -1,0 +1,36 @@
+# L Companies
+# l.yml
+
+- name: LinkValue (Paris)
+  url: https://link-value.fr/fr
+  glassdoor: https://www.glassdoor.fr/Pr%C3%A9sentation/Travailler-chez-LinkValue-EI_IE1574505.16,25.htm
+  interview_types:
+  - whiteboarding
+
+- name: LinkedIn
+  url: http://www.linkedin.com/
+  glassdoor: https://www.glassdoor.com/Interview/LinkedIn-Interview-Questions-E34865.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+  - code_review
+
+- name: Live Ramp
+  url: http://www.liveramp.com
+  glassdoor: https://www.glassdoor.com/Interview/LiveRamp-Interview-Questions-E633892.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Livestream
+  url: http://www.livestream.com
+  glassdoor: https://www.glassdoor.com/Interview/Livestream-Interview-Questions-E463168.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Lyft
+  url: http://www.lyft.com
+  glassdoor: https://www.glassdoor.com/Interview/Lyft-Interview-Questions-E700614.htm
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge

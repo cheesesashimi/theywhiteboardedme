@@ -1,0 +1,71 @@
+# A Companies
+# a.yml
+
+- name: Adstream
+  url: http://www.adstream.com/us/
+  interview_types:
+  - whiteboarding
+
+- name: Aetna (Data Science Group)
+  url: http://www.aetna.com
+  glassdoor: https://www.glassdoor.com/Interview/Aetna-Interview-Questions-E16.htm
+  interview_types:
+  - whiteboarding
+
+- name: Airbnb
+  url: http://www.airbnb.com
+  glassdoor: https://www.glassdoor.com/Interview/Airbnb-Interview-Questions-E391850.htm
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Amazon
+  url: http://www.amazon.com
+  glassdoor: https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Andela
+  url: http://www.andela.com
+  glassdoor: https://www.glassdoor.com/interview/andela-interview-questions-e882830.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: App Annie
+  url: http://www.appannie.com
+  glassdoor: https://www.glassdoor.com/Interview/App-Annie-Interview-Questions-E659235.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: AppNexus
+  url: https://www.appnexus.com
+  glassdoor: https://www.glassdoor.com/Interview/AppNexus-Interview-Questions-E347870.htm
+  interview_types:
+  - whiteboarding
+
+- name: Apple
+  url: http://www.apple.com
+  glassdoor: https://www.glassdoor.com/Interview/Apple-Interview-Questions-E1138.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: Argo AI
+  url: https://argo.ai
+  glassdoor: https://www.glassdoor.com/Overview/Working-at-Argo-AI-EI_IE1568279.11,18.htm
+  interview_types:
+  - online_coding_challenge
+  - live_coding
+
+- name: Ausy (fr)
+  url: https://www.ausy.com
+  glassdoor: https://www.glassdoor.com/Reviews/Ausy-Reviews-E216103.htm
+  interview_types:
+  - whiteboarding
+
+- name: Axoni
+  url: https://axoni.com/
+  interview_types:
+  - online_coding_challenge

@@ -1,0 +1,32 @@
+# E Companies
+# e.yml
+
+- name: Ebanx
+  url: http://www.ebanx.com.br
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: ElevenLabs (Paris)
+  url: https://eleven-labs.com/
+  glassdoor: https://www.glassdoor.fr/Avis/Eleven-Labs-Avis-E1062804.htm
+  interview_types:
+  - whiteboarding
+
+- name: Evernote
+  url: http://www.evernote.com
+  glassdoor: https://www.glassdoor.com/Interview/Evernote-Interview-Questions-E400095.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Experian
+  url: http://www.experian.com
+  glassdoor: https://www.glassdoor.com/Interview/Experian-Interview-Questions-E42406.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Express Scripts
+  url: http://www.express-scripts.com/
+  glassdoor: https://www.glassdoor.com/Interview/Express-Scripts-Interview-Questions-E2212.htm
+  interview_types:
+  - whiteboarding

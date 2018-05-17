@@ -1,0 +1,62 @@
+# B Companies
+# b.yml
+
+- name: Bank of America
+  url: http://www.bankofamerica.com
+  glassdoor: https://www.glassdoor.com/Interview/Bank-of-America-Interview-Questions-E8874.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Bazaarvoice
+  url: http://www.bazaarvoice.com/
+  glassdoor: https://www.glassdoor.com/Interview/Bazaarvoice-Interview-Questions-E147230.htm
+  interview_types:
+  - whiteboarding
+
+- name: Behaviour Interactive
+  url: http://www.hbvr.com
+  interview_types:
+  - whiteboarding
+
+- name: Beta District PL
+  url: https://www.betadistrict.com
+  interview_types:
+  - homework
+  - brain_teasers
+  - online_coding_challenge
+
+- name: Blablacar (Paris)
+  url: https://www.blablacar.com
+  glassdoor: https://www.glassdoor.com/Reviews/BlaBlaCar-Reviews-E840434.htm
+  interview_types:
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Bloomberg
+  url: https://www.bloomberg.com/
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: Branding Brand
+  url: http://www.brandingbrand.com/
+  glassdoor: https://www.glassdoor.com/Interview/Branding-Brand-Pittsburgh-Interview-Questions-EI_IE347091.0,14_IL.15,25_IM684.htm
+  interview_types:
+  - live_coding
+  - whiteboarding
+
+- name: Budget energy
+  url: https://budgetenergy.co.uk/
+  glassdoor: https://www.glassdoor.co.in/Overview/Working-at-Budget-Energy-EI_IE1173533.11,24.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Buffer
+  url: http://www.buffer.com
+  glassdoor: https://www.glassdoor.com/Interview/Buffer-Interview-Questions-E941992.htm?countryRedirect=true
+  interview_types:
+  - live_coding
+
+- name: Button
+  url: http://www.usebutton.com
+  glassdoor: https://www.glassdoor.com/Interview/Button-Interview-Questions-E992376.htm

@@ -1,0 +1,65 @@
+# T Companies
+# t.yml
+
+- name: Tesla
+  url: http://www.teslamotors.com
+  glassdoor: https://www.glassdoor.com/Interview/Tesla-Motors-Interview-Questions-E43129.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: The Home Depot Quote Center
+  url: http://hdquotecenter.com/
+  interview_types:
+  - whiteboarding
+  - live_coding
+
+- name: ThoughtWorks
+  url: http://www.thoughtworks.com
+  glassdoor: https://www.glassdoor.com/Interview/ThoughtWorks-Interview-Questions-E38334.htm
+  interview_types:
+  - homework
+  - whiteboarding
+  - code_review
+
+- name: TopView
+  url: https://www.topviewnyc.com/
+  interview_types:
+  - online_coding_challenge
+
+- name: Toptal
+  url: https://www.toptal.com/
+  glassdoor: https://www.glassdoor.com/Reviews/Toptal-Reviews-E882070.htm
+  interview_types:
+  - online_coding_challenge
+
+- name: Transfix
+  url: http://transfix.io
+  glassdoor: https://www.glassdoor.com/Interview/Transfix-Interview-Questions-E1174054.htm
+  interview_types:
+  - live_coding
+
+- name: Trivago
+  url: https://www.trivago.com
+  glassdoor: https://www.glassdoor.co.in/Interview/trivago-Interview-Questions-E673041.htm
+  interview_types:
+  - homework
+
+- name: Turbulent
+  url: http://www.turbulent.ca/
+  interview_types:
+  - whiteboarding
+
+- name: Twitch
+  url: http://twitch.tv
+  glassdoor: https://www.glassdoor.com/Interview/Twitch-Interview-Questions-E639426.htm
+  interview_types:
+  - live_coding
+  - whiteboarding
+  - online_coding_challenge
+
+- name: Twitter
+  url: http://www.twitter.com
+  glassdoor: https://www.glassdoor.com/Interview/Twitter-Interview-Questions-E100569.htm
+  interview_types:
+  - whiteboarding
+  - live_coding
