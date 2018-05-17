@@ -743,3 +743,20 @@
   interview_types:
   - online_coding_challenge
   - live_coding
+
+- name: "Bloomberg"
+  url: "https://www.bloomberg.com/"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: "Privacy"
+  url: "https://privacy.com/"
+  interview_types:
+  - live_coding
+  - online_coding_challenge
+
+- name: "TopView"
+  url: "https://www.topviewnyc.com/"
+  interview_types:
+  - online_coding_challenge
