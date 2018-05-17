@@ -10,13 +10,13 @@ This repository is created and maintained with [Jekyll](http://jekyllrb.com/) an
 
 ### Installation
 
-1. Make sure you have [Ruby](https://www.ruby-lang.org/en/) installed.
-2. Make sure you have [Bundler](http://bundler.io/) installed.
-3. Clone this repository. `git clone https://github.com/cheesesashimi/theywhiteboardedme.git`
-4. `cd theywhiteboardedme/`
-5. `bundle install`
-6. `bundle exec jekyll serve`
-7. Go to `localhost:4000` in a web browser.
+While Docker is not a strict requirement, using the included Dockerfile
+/ docker-compose.yml makes spinning up a local dev server painless:
+
+1. Clone this repository: `$ git clone https://github.com/cheesesashimi/theywhiteboardedme.git`
+2. Run `$ docker-compose up`.
+3. Open `http://localhost:4000` in a web browser.
+4. Happy contributing!
 
 ## Contributing
 
