@@ -5,6 +5,6 @@ services:
     volumes:
      - .:/site
     working_dir: /site
-    command: "/bin/bash -c 'jekyll serve --source /site --destination /site/_site'"
+    command: "jekyll serve --source /site --destination /site/_site"
     ports:
      - "4000:4000"
