@@ -12,12 +12,6 @@
   interview_types:
   - homework
 
-- name: GoJek
-  url: https://www.gojek.com
-  glassdoor: https://www.glassdoor.co.in/Interview/GO-JEK-Indonesia-Interview-Questions-E1282114.htm
-  interview_types:
-  - homework
-
 - name: Google
   url: http://www.google.com
   glassdoor: https://www.glassdoor.com/Interview/Google-Interview-Questions-E9079.htm
