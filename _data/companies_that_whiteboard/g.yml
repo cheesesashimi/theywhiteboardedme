@@ -1,6 +1,12 @@
 # G Companies
 # g.yml
 
+- name: GetUpside
+  url: https://www.getupside.com
+  glassdoor: https://www.glassdoor.com/Interview/GetUpside-Interview-Questions-E1423794.htm
+  interview_types:
+  - live_coding
+
 - name: GetTaxi (Gett)
   url: https://gett.com
   glassdoor: https://www.glassdoor.com/Interview/Gett-Software-Development-Engineer-Interview-Questions-EI_IE810731.0,4_KO5,34.htm
