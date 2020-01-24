@@ -15,6 +15,11 @@
   interview_types:
   - whiteboarding
 
+- name: Upside Business Travel
+  url: https://upside.com
+  interview_types:
+  - whiteboarding
+
 - name: UrbanLinker (Paris)
   url: https://www.urbanlinker.com/welcome
   interview_types:
