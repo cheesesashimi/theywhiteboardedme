@@ -9,8 +9,8 @@
   interview_types:
   - online_coding_challenge
 
-- name: Indeed Prime
-  url: "http://www.indeed.com/prime"
+- name: Seen by Indeed
+  url: "https://www.beseen.com/"
   interview_types:
   - online_coding_challenge
 
