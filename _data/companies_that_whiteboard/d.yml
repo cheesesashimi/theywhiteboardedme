@@ -14,6 +14,12 @@
   interview_types:
   - whiteboarding
 
+- name: Doximity
+  url: https://www.doximity.com/
+  interview_types:
+  - live_coding
+  - homework_assignment
+
 - name: Dropbox
   url: https://www.dropbox.com
   interview_types:
