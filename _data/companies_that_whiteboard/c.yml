@@ -37,6 +37,12 @@
   - whiteboarding
   - live_coding
 
+- name: CompuGroup Medical SE
+  url: https://www.cgm.com
+  interview_types:
+  - homework
+  - live_coding
+
 - name: Cvent
   url: http://www.cvent.com
   glassdoor: https://www.glassdoor.com/Interview/Cvent-Interview-Questions-E104683.htm
