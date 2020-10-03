@@ -13,6 +13,12 @@
   - whiteboarding
   - live_coding
 
+- name: Faithlife
+  url: https://faithlife.com/
+  glassdoor: https://www.glassdoor.com/Overview/Working-at-Faithlife-EI_IE888280.11,20.htm
+  interview_types:
+  - live_coding
+
 - name: FarmLogs
   url: https://farmlogs.com/
   glassdoor: https://www.glassdoor.com/Interview/FarmLogs-Interview-Questions-E930306.htm
