@@ -44,6 +44,12 @@
   interview_types:
   - online_coding_challenge
 
+- name: SOUTHWORKS
+  url: https://www.southworks.com/
+  glassdoor: https://www.glassdoor.com/Overview/Working-at-SOUTHWORKS-EI_IE2785941.11,21.htm
+  interview_types:
+  - online_coding_challenge
+
 - name: Splunk
   url: http://www.splunk.com
   glassdoor: https://www.glassdoor.com/Interview/Splunk-Interview-Questions-E117313.htm
