@@ -7,3 +7,9 @@
   interview_types:
   - whiteboarding
   - live_coding
+
+- name: Zoom
+  url: http://www.zoom.us
+  glassdoor: https://www.glassdoor.com/Interview/Zoom-Video-Communications-Interview-Questions-E924644.htmm
+  interview_types:
+  - whiteboarding
