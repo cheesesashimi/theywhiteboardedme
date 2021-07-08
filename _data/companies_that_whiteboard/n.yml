@@ -7,6 +7,12 @@
   interview_types:
   - online_coding_challenge
 
+- name: Noom
+  url: http://www.noom.com
+  glassdoor: https://www.glassdoor.com/Interview/Noom-Interview-Questions-E434924.htm
+  interview_types:
+  - live_coding
+
 - name: NoonAcademy
   url: https://www.non.sa
   interview_types:
