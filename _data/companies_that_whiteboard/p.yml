@@ -14,6 +14,12 @@
   - homework
   - whiteboarding
 
+- name: Pleo
+  url: https://www.pleo.io/en
+  glassdoor: https://www.glassdoor.com/Interview/Pleo-Interview-Questions-E1518165.htm
+  interview_types:
+  - homework
+
 - name: Pluralsight
   url: https://www.pluralsight.com/
   glassdoor: https://www.glassdoor.com/Interview/Pluralsight-Interview-Questions-E672636.htm

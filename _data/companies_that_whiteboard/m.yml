@@ -20,6 +20,7 @@
   interview_types:
   - whiteboarding
   - live_coding
+  - online_coding_challenge
 
 - name: MixPanel
   url: https://mixpanel.com
