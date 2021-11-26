@@ -7,6 +7,12 @@
   interview_types:
   - online_coding_challenge
 
+- name: Gitlab
+  url: https://gitlab.com/
+  glassdoor: https://www.glassdoor.com/Interview/GitLab-Interview-Questions-E1296544.htm
+  interview_types:
+  - live_coding
+
 - name: GoCardless
   url: http://www.gocardless.com
   interview_types:

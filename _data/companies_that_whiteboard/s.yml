@@ -27,6 +27,12 @@
   - homework
   - whiteboarding
 
+- name: Showmax
+  url: https://www.showmax.com/
+  glassdoor: https://www.glassdoor.com/Interview/ShowMax-Interview-Questions-E1149900.htm
+  interview_types:
+  - live_coding
+
 - name: Simon Data
   url: https://www.simondata.com/
   interview_types:
@@ -43,6 +49,13 @@
   url: http://www.snapdeal.com
   interview_types:
   - online_coding_challenge
+
+- name: Sokowatch
+  url: https://sokowatch.com/
+  glassdoor: https://www.glassdoor.com/Interview/Sokowatch-Interview-Questions-E3445190.htm
+  interview_types:
+  - online_coding_challenge
+  - live_coding
 
 - name: Splunk
   url: http://www.splunk.com
