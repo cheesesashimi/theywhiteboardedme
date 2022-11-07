@@ -37,6 +37,13 @@
   - whiteboarding
   - live_coding
 
+- name: CrossnoKaye
+  url: https://www.crossnokaye.com/
+  interview_types:
+  - whiteboarding
+  - homework
+  - code_review
+
 - name: Cvent
   url: http://www.cvent.com
   glassdoor: https://www.glassdoor.com/Interview/Cvent-Interview-Questions-E104683.htm
