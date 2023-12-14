@@ -38,6 +38,12 @@
   interview_types:
   - live_coding
 
+- name: Triumph Pay
+  url: https://triumphpay.com
+  glassdoor: https://www.glassdoor.com/Interview/TriumphPay-Interview-Questions-E5750990.htm
+  interview_types:
+  - live_coding
+
 - name: Trivago
   url: https://www.trivago.com
   glassdoor: https://www.glassdoor.co.in/Interview/trivago-Interview-Questions-E673041.htm
